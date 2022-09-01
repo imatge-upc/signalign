@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-05-03T12:47:18+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/GoogleDrive/My Drive/Gloss-annotation/Done/andrea/1Rk3pC7_MMQ-5-rgb_front/1Rk3pC7_MMQ-5-rgb_front.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./1Rk3pC7_MMQ-5-rgb_front.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:10472f9c-d082-47f9-a76b-de3dfcad7044</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">6</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="49625"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="49625"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="61682"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="61682"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="61682"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="61682"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="77060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="77060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="77061"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="77061"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="91220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="91220"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1Rk3pC7_MMQ_7-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>So let's put it into our boiling water and then we're going to let it boil for about 2-3 minutes before checking it.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1Rk3pC7_MMQ_8-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>Because it's not super super dried, it doesn't need nearly as much time as box pasta does so we're just going to leave it in here stir frequently and check in about 2-3 minutes.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1Rk3pC7_MMQ_9-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>Once the pasta is cooked, it's going to have swelled up just a little bit almost like a dumpling you're going to drain it and then it' s ready for you to choose a sauce.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1Rk3pC7_MMQ_7-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts5">
+                <ANNOTATION_VALUE>PUT IN BOILING WATER THEN WILL LET FS:IT BOILING FOR ABOUT FS:2 TO FS:3 MINUTES BEFORE CHECK.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1Rk3pC7_MMQ_8-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>BECAUSE THAT NOT SUPER SUPER DRY NOT NEED NEAR MUCH FS:AS BOX PASTA TAKE TIME FS:SO GOING TO TO LEAVE STIR FREQUENTLY AND CHECK  IN ABOUT FS:2 TO FS:3 MINUTES.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1Rk3pC7_MMQ_9-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>ONCE THE PASTA FS:IS COOK ME TO HAVE FS:SWELLED FS:UP LITTLE-BIT ALMOST LIKE FS:A FS:DUMPLING YOU GOING TO DRAIN THEN READY FOR TO CHOOSE FS:A SAUCE.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

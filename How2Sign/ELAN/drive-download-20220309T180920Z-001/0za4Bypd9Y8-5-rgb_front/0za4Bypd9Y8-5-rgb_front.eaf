@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-03-03T10:10:52+01:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Users/kathleenroberts/Desktop/H2S - Linguistics 799/0za4Bypd9Y8-5-rgb_front/0za4Bypd9Y8-5-rgb_front.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../../../../../../kathleenroberts/Desktop/H2S - Linguistics 799/0za4Bypd9Y8-5-rgb_front/0za4Bypd9Y8-5-rgb_front.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:7b01b871-03ec-46c3-90d7-b90dcc304561</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">27</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="8730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="8730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="8730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="8730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="15070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="15070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="15070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="15070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="25870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="25870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="26030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="26030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="42760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="42760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="42760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="42760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="52360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="52360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="52550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="52550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="59880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="59880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="59890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="59890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="70750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="70750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="71040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="71040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="77980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="77980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="77980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="77980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="83820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="83820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="83820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="83820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="99370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="99370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="99740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="99740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="112420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="112420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="112430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="112430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="125240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="125240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="125370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="125370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="132340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="132340"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0za4Bypd9Y8_0-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>One of the things that you really don't want on a job for when you're working from a home office environment is distractions.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0za4Bypd9Y8_1-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>It's so easy- and this is actually true whether you work from home or any typical office setting.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0za4Bypd9Y8_2-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>But as far as e-mails, and voice mails go, those are kind of your big time consumers if you let them be.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0za4Bypd9Y8_3-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>I know for my self, and I've talked to a lot of other people who work at home, who have found that, who has somewhat challenge, when you're constantly checking your e-mail, there's always something coming up that you can do.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0za4Bypd9Y8_4-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>And a lot of times it's not the most important thing, but you get sucked into it, and before you know it an hour is gone.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0za4Bypd9Y8_5-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>So here I go to my e-mail, oh lets see, okay, yeah, this guy he wants me to write an article for him, this is important I better get back to him.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0za4Bypd9Y8_6-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>Oh, okay, he wants to know, oh what do I do, okay, I got to get and see my resume, some writing samples.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0za4Bypd9Y8_7-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>You know what, there's an effective way to do things, and an ineffective.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0za4Bypd9Y8_8-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>The ineffective way is to just attack everything as soon as it comes.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0za4Bypd9Y8_9-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>That's not effective because you'll be- if you do that, you can easily use up eight hours in a day responding to e-mails and voice-mails, and you're not going to get anything done.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0za4Bypd9Y8_10-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts43">
+                <ANNOTATION_VALUE>What you want to do is completely avoid e-mails and voice-mails if you can, until you're completely done with your most important things for that day that you need to get done.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0za4Bypd9Y8_11-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts47">
+                <ANNOTATION_VALUE>And if that's not possible, then at least schedule in times, maybe once or twice a day when you will attend voice-mails and e-mails, but don't go over that time.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0za4Bypd9Y8_12-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts51">
+                <ANNOTATION_VALUE>And anything you can't get done, it probably wasn't the most important thing anyway, so you'll be okay.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0za4Bypd9Y8_0-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts5">
+                <ANNOTATION_VALUE>THINGS THAT YOU REAL DON'T+WANT ON JOB IS FOR WHEN SOMEONE IS WORK IN OFFICE ENVIRONMENT IS DISTRACTING</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0za4Bypd9Y8_1-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>REAL EASY AS TRUE ABOUT WORK FROM HOME FS:OR OTHER TYPE OFFICE SET</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0za4Bypd9Y8_2-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>BUT AS FAR AS EMAIL VOICE FS:MAIL GO THEY ARE YOUR BIG TIME CONSUME IF YOU LET THEM BE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0za4Bypd9Y8_3-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE>ME KNOW FOR MYSELF ME TALK TO ALOT FS:OF OTHER PEOPLE WHO WORK AT HOME HAVE FIND THAT WHO HAVE SOME WHAT CHALLENGE WHEN ARE CONSTANT CHECK YOUR EMAIL THERE ALWAYS SOMETHING COMING COMING+UP THAT YOU CAN DO</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0za4Bypd9Y8_4-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>ALOT OF THE TIME THIS IS NOT THE MOST IMPORTANT THING COULD SUCK INTO BEFORE YOU KNOW FS:IT FS:AN HOUR GONE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0za4Bypd9Y8_5-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>SO ME GO TO MY EMAIL FS:OK THIS GUY WANT ME TO WRITE FS:AN ARTICLE FOR HIM ME BETTER BACK+HIM</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0za4Bypd9Y8_6-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>FS:OK WANT TO KNOW WHAT ME DO FS:OK ME GET TO SEE MY RESUME SOME WRITE SAMPLE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0za4Bypd9Y8_7-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts33">
+                <ANNOTATION_VALUE>KNOW WHAT THERE IS FS:AN EFFECTIVE WAY TO DO THING FS:S AND NOT ENOUGH EFFECTIVE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0za4Bypd9Y8_8-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts37">
+                <ANNOTATION_VALUE>THE GOOD+ENOUGH IS THE WAY TO ATTACK EVERYTHING FS:AS SOON FS:AS IT COME </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0za4Bypd9Y8_9-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>THAT IS NOT EFFECTIVE BECAUSE YOU WILL FS:BE IF DO THAT YOU CAN EASY USE FS:UP FS:8+HOUR IN FS:A DAY ANSWER TO EMAIL VOICE MAIL NOT GO TO GET ANYTHING DONE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0za4Bypd9Y8_10-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>WHAT YOU WANT DO IS TO COMPLETE AVOID EMAIL AND VOICE MAIL IF YOU CAN UNTIL YOU ARE COMPLETE DONE WITH YOUR MOST IMPORTANT THINGS DO FOR THAT DAY THAT YOU MUST TO GET DONE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0za4Bypd9Y8_11-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>IF NOT POSSIBLE THEN AT+LEAST SCHEDULE IN TIME MAYBE ONCE OR TWICE FS:A DAY WHEN YOU WILL ATTEND** VOICE MAIL AND EMAIL BUT DON'T GO OVER THAT TIME</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0za4Bypd9Y8_12-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>AND ANYTHING YOU WHAT GET DONE IT POSSIBLE WILL NOT THE MOST IMPORTANT YOU WILL BE FS:OK</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

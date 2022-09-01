@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-06-23T09:57:15+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/GoogleDrive/My Drive/Gloss-annotation/Annotating/Main_folder/kat/DONE/-F6vN4bOBWs-8-rgb_front/New_files/-F6vN4bOBWs-8-rgb_front.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./-F6vN4bOBWs-8-rgb_front.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:7989f361-453d-40a1-ab68-ccb84e8be492</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">34</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="4190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="4190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="4300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="4300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="5670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="5670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="5720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="5720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="10110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="10110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="10280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="10280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="17710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="17710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="18120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="18120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="28710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="28710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="28730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="28730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="38170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="38180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="38940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="38940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="56330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="56330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="57070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="57070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="64560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="64570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="64790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="64800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="67080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="67080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="67220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="67220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="71390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="71390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="71930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="71940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="75860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="75860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="75870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="75870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="83050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="83050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="83730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="83730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="86850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="86850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="87300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="87300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="101340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="101340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="101390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="101390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="101750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="101750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="102100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="102100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="103180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="103180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="103350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="103350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="105250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="105250"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-F6vN4bOBWs_0-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>Hello, have you ever wondered how to heal a broken heart after a breakup?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-F6vN4bOBWs_1-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>This is no easy task.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-F6vN4bOBWs_2-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>But, I'm Dr. Felicia and I'm here to give you a few tips on how to do that.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-F6vN4bOBWs_3-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>For one thing you want to indulge yourself in things that you like and surround yourself by supportive family and friends who understand the situation.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-F6vN4bOBWs_4-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>The other thing you want to do is try to embellish some of the good parts of that relationship and try to make some senses to why it actually broke up.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-F6vN4bOBWs_5-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>"It's really hard to be honest and look inside ourselves and say, ""okay, what did I do to contribute to this breakup"", if anything, maybe nothing, but, it's good for you to take a look at that and analyze it."</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-F6vN4bOBWs_6-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>The other thing you want to do is also, your response may differ, whether you're, what we call an internal directed person, perhaps you think about it a lot, you're going to, you're going to internalize it, you're not going to speak to your friends, you're just kind of go and go quiet walks on the beach, process that information by yourself.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-F6vN4bOBWs_7-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>Or, you maybe what we call externally driven, where you need to throw yourself in a lot of activities and laughter and jokes.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-F6vN4bOBWs_8-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>I would strongly recommend laughter is the best medicine.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-F6vN4bOBWs_9-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>If you can get through the breakup and eventually time does heal wounds.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-F6vN4bOBWs_10-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts43">
+                <ANNOTATION_VALUE>So that some of those raw wounds will heal in time.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-F6vN4bOBWs_11-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>Remember everyone does survive breakups and usually by the time you're in your 20's and 30's, you've already had your share of high school breakups.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-F6vN4bOBWs_12-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>So you should be somewhat condition to that process.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-F6vN4bOBWs_13-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts55">
+                <ANNOTATION_VALUE>You will heal, you will get over this and with that in mind, remember how you go about healing from the breakup, healing your broken heart, depends on you making conscious efforts to stay active and busy.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-F6vN4bOBWs_14-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts58" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>Right?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-F6vN4bOBWs_15-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts63">
+                <ANNOTATION_VALUE>Good luck.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-F6vN4bOBWs_16-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts66" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>Dr. Felicia here, goodbye.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-F6vN4bOBWs_0-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>WONDER HOW CL:C(heart broken in half then mended) AFTER LET+GO</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-F6vN4bOBWs_1-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>NOT EASY WHAT+DO</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-F6vN4bOBWs_2-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>I-FORMAL FS:DR FS:FELICIA HERE SHOW+YOU FEW INPUT HOW SUCCEED THAT</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-F6vN4bOBWs_3-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>ONE WANT TO INVOLVE YOURSELF IN THING YOU ENJOY AND PEOPLE CL:4(surround by people) SUPPORT FAMILY FRIEND WHO UNDERSTAND SITUATION</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-F6vN4bOBWs_4-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>WHAT+DO TRY TO FOCUS SHINE SOME POSITIVES THAT RELATIONSHIP MAKE FIGURE UNDERSTAND WHY LET+GO</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-F6vN4bOBWs_5-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>REAL HARD HONEST INSIDE+EXAMINE OK WHAT ME DO TO CONTRIBUTE THAT LET+GO IF ANYTHING BUT GOOD FOR YOU TO INSIDE+EXAMINE </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-F6vN4bOBWs_6-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>WHAT+DO YOUR RESPONSE MAYBE VARY WHETHER NAME+CALL INSIDE FOCUS MAYBE THINK ME WHAT+DO ME INSIDE THINK NOT CHAT FRIENDS CL:1(person wandering off) ALONE BEACH THINK PROCESS </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-F6vN4bOBWs_7-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>FS:OR NAME+CALL QUOTE OUTSIDE FOCUS PERSON MAYBE YOURSELF MUST INVOLVE ACTIVEAND LAUGH</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-F6vN4bOBWs_8-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>WILL SUGGEST LAUGH TOP MEDICINE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-F6vN4bOBWs_9-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>IF CAN THROUGH LET+GO FINALLY TIME HELP FADE+AWAY PAIN</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-F6vN4bOBWs_10-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>SOME THOSE PAIN WILL FADE+AWAY TIME</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-F6vN4bOBWs_11-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts47">
+                <ANNOTATION_VALUE>REMEMBER EVERYONE SURVIVE LET+GO TEND TIME FS:TWENTIES FS:THIRTIES AROUND FINISH EXPERIENCE LET+GO LET+GO HIGH SCHOOL</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-F6vN4bOBWs_12-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts51">
+                <ANNOTATION_VALUE>YOU WILL ALREADY EXPEREINCED THAT PROCESS</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-F6vN4bOBWs_13-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>WILL HEAL IMPROVE WILL MOVE ON KEEP+IN+MIND REMEMBER HOW YOU HEAL LET+GO FINISH CL:C(heart broken in half then mended) DEPEND YOURSELF MAKE CONSCIOUS ATTEMPT CONTINUE ACTIVE BUSY</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-F6vN4bOBWs_14-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts59">
+                <ANNOTATION_VALUE>RIGHT</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-F6vN4bOBWs_15-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>LUCK GOOD LUCK</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-F6vN4bOBWs_16-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts67">
+                <ANNOTATION_VALUE>I-FORMAL FS:DR FS:FELICIA</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

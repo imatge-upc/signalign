@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-03-03T09:57:37+01:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Users/amandaduarte/Desktop/Gloss-annotations/Original_files/NEW-FILES/-EdUkSqns3U-3-rgb_front/-EdUkSqns3U-3-rgb_front.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./-EdUkSqns3U-3-rgb_front.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:be107ac9-e7fc-489d-8136-4d42a4dba6f9</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">24</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1022"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="1022"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="19488"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="19488"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="19622"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="19622"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="29111"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="29111"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="29211"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="29211"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="31955"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="31955"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="32000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="32000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="48411"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="48411"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="49133"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="49133"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="53966"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="53966"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="53988"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="53988"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="61988"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="61988"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="62066"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="62066"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="72644"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="72644"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="72666"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="72666"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="75577"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="75577"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="75611"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="75611"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="77677"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="77677"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="77722"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="77722"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="79177"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="79177"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="79188"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="79188"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="80044"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="80044"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="80055"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="80055"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="81188"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="81188"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-EdUkSqns3U_0-3-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>The game of Baroness solitaire is an adding game at its heart, and the number you're trying to get to, the sum; is that right, when you add is thirteen.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-EdUkSqns3U_1-3-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>So ace plus queen, the ace is one; the queen is twelve, that equals thirteen.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-EdUkSqns3U_2-3-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>The king is thirteen by himself.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-EdUkSqns3U_3-3-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>So aces are worth one, twos are worth two, three is three; face value until you get up to ten, then jacks are worth eleven, queens, twelve, kings are thirteen, so the king doesn't have to be added to anything.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-EdUkSqns3U_4-3-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>So, how does that work in a real example?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-EdUkSqns3U_5-3-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>Well the cards I have dealt at the start of this hand of baroness are an ace, a two, a ten, a ten, and a three.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-EdUkSqns3U_6-3-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>So, if I want combinations that add up to thirteen, at this point all I have are a three plus one of the tens.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-EdUkSqns3U_7-3-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>So I'm going to take down this three and this ten.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-EdUkSqns3U_8-3-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>That adds up to thirteen.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-EdUkSqns3U_9-3-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>There are no more moves.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-EdUkSqns3U_10-3-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts45">
+                <ANNOTATION_VALUE>What'll I do now?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-EdUkSqns3U_11-3-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts47">
+                <ANNOTATION_VALUE>Next segment.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-EdUkSqns3U_0-3-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>GAME FS:BARONESS SOLITAIRE SINGLE REAL ADDING GAME DEEP HEART. NUMER TRY GOAL SUM WHEN ADD+ WANT GOAL WHAT THIRTEEN. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-EdUkSqns3U_1-3-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>FS:ACE PLUS QUEEN FS:ACE EQUAL 1 QUEEN EQUAL TWELVE THAT ADD THIRTEEN.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-EdUkSqns3U_2-3-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>KING HIMSELF THIRTEEN.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-EdUkSqns3U_3-3-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>FS:ACE ONE TWO EQUAL TWO THREE EQUAL THREE FACE VALUE UNTIL TEN FS:JACK EQUAL ELEVEN QUEEN TWELVE KING THIRTEEN KING ADD NOTHING NOT NEED. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-EdUkSqns3U_4-3-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>HOW PROCESS? REAL EXAMPLE </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-EdUkSqns3U_5-3-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>ME CL:FLAT-O (cards in hand)+ CL:FLAT-O(hand out) START HAND FS:BARONESS HAVE FS:ACE TWO TEN TEN THREE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-EdUkSqns3U_6-3-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>IF WANT TOTAL  ADD THIRTEEN ME DO NOW LOOK-FOR ONLY HAVE THREE PLUS TEN.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-EdUkSqns3U_7-3-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>ME SUBTRACT THREE SUBTRACT TEN.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-EdUkSqns3U_8-3-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>TOTALL ADD THIRTEEN.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-EdUkSqns3U_9-3-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>MOVE NOTHING.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-EdUkSqns3U_10-3-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>ME DO</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-EdUkSqns3U_11-3-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>NEXT</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

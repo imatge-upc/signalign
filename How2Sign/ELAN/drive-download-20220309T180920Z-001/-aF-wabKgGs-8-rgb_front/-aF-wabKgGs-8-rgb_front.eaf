@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-03-03T09:42:52+01:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Users/amandaduarte/Desktop/Gloss-annotations/Original_files/NEW-FILES/-aF-wabKgGs-8-rgb_front/-aF-wabKgGs-8-rgb_front.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./-aF-wabKgGs-8-rgb_front.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:604cc4dc-8660-4a5d-b484-6ea7c94ab107</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">26</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="4710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="4710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="8550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="8550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="8560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="8560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="14310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="14310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="14820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="14820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="24190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="24190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="24790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="24790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="33490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="33490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="33490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="33490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="43430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="43430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="43430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="43430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="50250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="50250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="50420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="50420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="58920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="58920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="59240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="59240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="67570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="67570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="69060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="69060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="86670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="86670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="87500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="87500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="97680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="97680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="98840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="98840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="101980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="101980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="101980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="101980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="122640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="122640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="132810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="132810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="139910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="139910"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-aF-wabKgGs_1-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>In this clip we're going to make a pattern for our eye mask.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-aF-wabKgGs_2-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>I already have a eye mask it's just a plain kind of boring one that I bought at a eye mask store.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-aF-wabKgGs_3-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>"So I'm just going to use this as a template but if you don't have a sleeping mask basically you want something that's an oval shape about 6"" wide."</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-aF-wabKgGs_4-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>You want a place cut out for your nose so you basically make a long oval and then we're going to cut out for the nose.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-aF-wabKgGs_5-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>So I'm just going to bring this to my paper and then I'm going to go ahead and trace it.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-aF-wabKgGs_6-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>You just go ahead and trace it we're going to lift up the little nose guard part and come back down.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-aF-wabKgGs_7-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>This doesn't has to be exact cause we're going to clean it up when we cut it out.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-aF-wabKgGs_8-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>I actually want mine to come down a little further so I'm just going to go ahead and free hand it.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-aF-wabKgGs_9-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>What you do when you are actually free handing something is you go ahead and just fold it in half and then we'll cut it out so the other side is the exact same shape.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-aF-wabKgGs_10-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>Always remember when you are making patterns or cutting out patterns to have a separate scissors you can use just for paper.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-aF-wabKgGs_11-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>Cause you don't want to use the fabric scissors.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-aF-wabKgGs_12-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts47">
+                <ANNOTATION_VALUE>We'll go ahead and see this is a little bit to straight so we're going to go ahead and clean that line up just a little.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-aF-wabKgGs_13-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts51">
+                <ANNOTATION_VALUE>Once you have your paper pattern we're ready to transfer this onto our fabric and cut it out.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-aF-wabKgGs_1-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE> THIS FILM WILL MAKE FS:PATTERN FOR EYE+MASK</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-aF-wabKgGs_2-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE> FINISH EYE+MASK BUT PLAIN BORING ME ALREADY BUY EYE+MASK STORE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-aF-wabKgGs_3-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>SO USE THAT FS:TEMPLATE BUT NOT HAVE SLEEP EYE+MASK WHAT+DO LIKE OVAL CL:BENT L(short)+CL:1(circle) FS:6 INCH WIDE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-aF-wabKgGs_4-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE>WANT PLACE TO NOTCH CL:BENT L(short)+CL:1(go across bridge of nose) FOR NOSE WANT LONG WARPED OVAL (CL:BENT L(oval bent in middle) CUT OUT NOTCH</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-aF-wabKgGs_5-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts21">
+                <ANNOTATION_VALUE>ME GO+AHEAD THAT PAPER OVAL CL:BENT L(short) PUT+ON+TABLE GO+AHEAD TRACE AROUND</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-aF-wabKgGs_6-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>YOU GO+AHEAD TRACE+AROUND THEN WILL PICK+UP NOSE CL:1(trace line) </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-aF-wabKgGs_7-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>NOT MUST PERFECT WHY WILL CLEAN WHEN CUT+AROUND</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-aF-wabKgGs_8-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>LIKE MY ACROSS+NOSE MORE LOW CL:B(lower on nose) ME GO+AHEAD FREE HAND DRAW</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-aF-wabKgGs_9-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>WHEN YOU YOURSELF DRAW SOMETHING GO+AHEAD FOLD THIS CUT+AROUND MEAN SAME+SIDE EXACT</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-aF-wabKgGs_10-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>ALWAYS REMEMBER WHEN YOU MAKE CUT+AROUND DRAW MAKE SURE SEPARATE SCISSOR ONLY FOR PAPER</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-aF-wabKgGs_11-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts45">
+                <ANNOTATION_VALUE>YOU DON'T+WANT USE SHIRT FABRIC SCISSORS</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-aF-wabKgGs_12-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>GO+AHEAD CUT SEE THIS LITTLE+BIT STRAIGHT CL:B(straight edge) GO+AHEAD CUT CLEAN LITTLE+BIT</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-aF-wabKgGs_13-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>ONCE FINISH PAPER DRAW PATTERN CL:BENT L(short) READY PATTERN CL:BENT L(short) MOVE OVER TO FABRIC CUT+AROUND</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

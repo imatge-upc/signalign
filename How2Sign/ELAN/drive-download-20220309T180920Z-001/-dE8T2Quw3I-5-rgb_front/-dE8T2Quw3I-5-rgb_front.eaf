@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-05-03T12:48:26+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/GoogleDrive/My Drive/Gloss-annotation/Done/andrea/-dE8T2Quw3I-5-rgb_front/-dE8T2Quw3I-5-rgb_front.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./-dE8T2Quw3I-5-rgb_front.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:1a2b5e29-2bc6-47fb-8f87-c788ba444c70</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">28</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="1210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="5150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="5150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="5180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="5180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="29270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="29270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="29270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="29270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="45370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="45370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="45370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="45370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="52770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="52770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="52790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="52790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="75390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="75390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="75440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="75440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="79680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="79680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="79960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="79960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="83260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="83260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="83260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="83260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="89320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="89320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="89320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="89320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="99610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="99610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="99990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="99990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="108430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="108430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="109860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="109860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="116340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="116340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="116350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="116350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="130970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="130970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="131000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="131000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="135730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="135730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="135730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="135730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="147150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="147160"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-dE8T2Quw3I_0-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>ALVIN DEDEAUX: So the basic tools you're going to need.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-dE8T2Quw3I_1-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>Hemostats, those are good for mashing down the barbs on your hooks, also good for grabbing a hook and getting it out of fish's mouth, and these have a nice little feature here that you can actually mash the split shot down with.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-dE8T2Quw3I_2-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>They come in all different sizes and shapes, bigger ones, longer ones, some of them are brightly colored, some of them are colored, anodized like a matte black so they don't reflect light.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-dE8T2Quw3I_3-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>There's just different hemostats for different finger sizes, you name it.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-dE8T2Quw3I_4-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>Another really important tool and a kind of a must-have tool is your clippers obviously for clipping the line, if you add and tip it or you got a knot and you need to cut your leader to retie it, you want to have clippers.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-dE8T2Quw3I_5-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>Another thing that's important on your clippers is this little needle.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-dE8T2Quw3I_6-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>This one actually has a retractable needle.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-dE8T2Quw3I_7-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>That's really good, like say you've got the eye of your flies all gunked up.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-dE8T2Quw3I_8-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>Sometimes when they tie them, they'll have an extra paint or glue covering the eye and you can use that needle to poke out the eye.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-dE8T2Quw3I_9-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>Also if you get a tangle, you can actually use that needle to stick in there and kind of untangle the knot you have in your line.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-dE8T2Quw3I_10-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts45">
+                <ANNOTATION_VALUE>Another real nice thing to have is a hook sharpener for obvious reasons; you want to keep that hook sharp.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-dE8T2Quw3I_11-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts47">
+                <ANNOTATION_VALUE>This one's cool 'cause it's made out of a ceramic material, so it won't rust, and I've had that one for years and it's been in saltwater, it's been in fresh water, and it still keeps my hooks nice and sharp.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-dE8T2Quw3I_12-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts51">
+                <ANNOTATION_VALUE>As far as tools go, that's your basics.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-dE8T2Quw3I_13-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>There's a lot of other stuff you can have pliers, pocket knife, but if you got clippers and hemostats, hook sharpener, that should get you by.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-dE8T2Quw3I_0-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>FS:SO THE SIMPLE BASIC FS:TOOLS  WILL NEED.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-dE8T2Quw3I_1-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>FS:HEMOSTATS THOSE ARE GOOD FOR MASHING DOWN THE FS:BARBS ON YOUR FS:HOOKS ALSO GOOD FOR GRAB FS:HOOK AND GET IT OUT FS:OF FISH MOUTH THEY HAVE FS:A NICE LITTLE FEATURE HERE THAT YOU CAN ACTUALLY MASH THE FS:SP SPLIT FS:SPLIT FS:SHOT DOWN WITH. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-dE8T2Quw3I_2-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>THEY COME IN DIFFERENT SIZES SHAPE BIGGER LONG SOME THEM ARE BRIGHT COLORS SOME THEM FS:ARE COLOR REGULAR FS:ANODIZED LIKE FS:A FS:MATTE BLACK FS:SO THIS DONT REFLECT LIGHT. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-dE8T2Quw3I_3-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>THRE ARE SOME DIFFERENT FS:HEMOSTATES FOR FIGNERS SIZE UP-TO-YOU NAME FS:IT.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-dE8T2Quw3I_4-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>ANOTHER REALLY IMPORTANT FS:TOOL AND FS:A KIND+OF  MUST HAVE FS:TOOL IS YOUR FS: CLIPPERS OBIVOUS FOR CL:5(hand, non- dominant hand)+CL: V(clipping, dominant hand) THE LINE IF YOU ADD AND FS:TIP FS:IT YOU HAVE FS:A KNOT AND YOU NEED TO CUT YOUR LEADER TO FS:RETIE FS:IT YOU WANT TO HAVE CLIPPERS.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-dE8T2Quw3I_5-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>ON YOUR CLIPPER HAVE THIS LITTLE NEEDLE FS:NEEDLE.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-dE8T2Quw3I_6-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts29">
+                <ANNOTATION_VALUE>THIS ONE ACTUALLY FS:RETRACTABLE FS:NEEDLE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-dE8T2Quw3I_7-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts33">
+                <ANNOTATION_VALUE>THIS REALLY GOOD SAY YOU HAVE EYE FS:OF THE FS:FLIES ALL FS:GUNKED FS:UP.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-dE8T2Quw3I_8-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>SOMETIMES YOU TIE WILL HAVE EXTRA PAINT FS:OR GLUE COVER THE FS:EYE FS:OR FROM TO POINT THE CL:BABY-O(pull).</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-dE8T2Quw3I_9-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>IF YOU GET TANGLE CAN USE THAT FS:NEEDLE TO STICK AND THEN FS:UN TANGLE.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-dE8T2Quw3I_10-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>OTHER THING NICE IS TO HAVE FS:A HOOK SHARPENER SHARP.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-dE8T2Quw3I_11-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>WHY FOR COOL  MAKE OUT FS:OF FS:CERAMIC MATERIAL FS:SO WONT FS:RUST CAN HAVE FOR YEAR+YEAR LEAVE SALT WATER IN FRESH WATER KEEP MY HOOK NICE AND SHARP.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-dE8T2Quw3I_12-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts53">
+                <ANNOTATION_VALUE>CL:5(list, non dominant hand)+ CL:1(review, dominant hand) FS:TOOLS THAT YOUR BASIC. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-dE8T2Quw3I_13-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts55">
+                <ANNOTATION_VALUE>CAN ALSO HAVE FS:PLIERS OR  POCKET KNIFE IF BUT IF YOU HAVE CLIPPER FS:HEMOSTATS THAT SHOULD GET YOU BY.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

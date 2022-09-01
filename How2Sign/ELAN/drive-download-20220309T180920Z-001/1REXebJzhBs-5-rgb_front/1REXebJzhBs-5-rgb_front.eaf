@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-03-03T10:28:53+01:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Users/amandaduarte/Desktop/Gloss-annotations/Original_files/NEW-FILES/1REXebJzhBs-5-rgb_front/1REXebJzhBs-5-rgb_front.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./1REXebJzhBs-5-rgb_front.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:a8e62e7d-94c1-49b0-b8f6-3858262fd2e9</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">28</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="3400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="3400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="3520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="3520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="15346"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="15346"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="16650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="16650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="25230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="25230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="25255"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="25255"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="29220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="29220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="29240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="29240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="40140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="40140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="40175"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="40175"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="41895"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="41895"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="41909"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="41909"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="53389"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="53389"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="53414"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="53414"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="61514"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="61514"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="61525"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="61525"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="71205"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="71205"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="72225"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="72225"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="75565"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="75565"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="75760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="75760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="78690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="78690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="78935"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="78935"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="81295"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="81295"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="81460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="81460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="84320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="84320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="84495"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="84495"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="98695"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="98695"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1REXebJzhBs_0-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>Okay, how to identify cardiac arrest.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1REXebJzhBs_1-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>As we discussed earlier, cardiac arrest is a loss of responsiveness, absence of breathing, and the absence of pulse.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1REXebJzhBs_2-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>To do that, if you find a person laying on the ground or sitting in their chair, that appears to be asleep, see if they can wake up.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1REXebJzhBs_3-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>You can do that by shaking them or shouting at them.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1REXebJzhBs_4-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>If they do not respond, check to see if they're breathing, and look, listen, and feel is usually what's taught in CPR classes.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1REXebJzhBs_5-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>Check for a pulse.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1REXebJzhBs_6-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>You can check a pulse either on the radial pulse, or at your carotid.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1REXebJzhBs_7-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>If you do not feel a pulse, if they're unresponsive and not breathing, then they are in cardiac arrest.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1REXebJzhBs_8-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>When you have identified somebody that is in cardiac arrest, CPR needs to be started immediately.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1REXebJzhBs_9-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>The basic chain of survival needs to be followed.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1REXebJzhBs_10-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts43">
+                <ANNOTATION_VALUE>You've already started the first two steps.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1REXebJzhBs_11-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts47">
+                <ANNOTATION_VALUE>First, you have early recognition.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1REXebJzhBs_12-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts51">
+                <ANNOTATION_VALUE>Second, you start early CPR.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1REXebJzhBs_13-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts55">
+                <ANNOTATION_VALUE>Next, you need to activate the 9-1-1 system and summon help, and then, advance life support treatment can be initiated on this patient.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1REXebJzhBs_0-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>FS:OK HOW TO IDENTIFY HEART ATTACK</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1REXebJzhBs_1-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>I DISCUSSED EARLY HEART ATTACK FS:LOSS FS:OF RESPONSE BREATHING GONE PULSE GONE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1REXebJzhBs_2-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>IF YOU SEE THAT HAPPEN PERSON LAY ON GROUND FS:OR SIT IN CHAIR SEE IF YOU CAN WAKE-UP</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1REXebJzhBs_3-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>YOU DO THAT HOW SHAKE SCREAM</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1REXebJzhBs_4-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>IF NO RESPONSE CHECK SEE IF BREATHING LOOK LISTEN FEEL TYPICALLY WHAT TAUGHT IN FS:CPR CLASS</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1REXebJzhBs_5-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>CHECK FOR PULSE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1REXebJzhBs_6-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE> CAN CHECK PULSE EITHER ON FS:RADIAL FS:PULSE PULSE FS:OR FS:AT THEIR PULSE-NECK FS:CARTOID PULSE-NECK</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1REXebJzhBs_7-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>IF NOT FEEL IF NOT RESPONDING IF NOT BREATHING THEN IX-LOC-PERSON HEART ATTACK</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1REXebJzhBs_8-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE> WHEN YOU FINISH IDENTIFY SOMEONE THAT IS IN HEART ATTACK FS:CPR NEEDS TO FS:BE STARTED IMMEDIATELY</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1REXebJzhBs_9-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>BASIC CHAIN FS:OF SURVIVAL NEEDS TO FS:BE FOLLOWED</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1REXebJzhBs_10-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>YOU ALREADY STARTED THE FIRST FS:2 STEPS</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1REXebJzhBs_11-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>FIRST YOU HAVE EARLY RECOGNITION</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1REXebJzhBs_12-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>SECOND YOU START FS:CPR EARLY</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1REXebJzhBs_13-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>THIRD YOU NEED TO ACTIVE START A FS:911 SYSTEM AND SUMMON HELP THEN FOURTH ADVANCE LIFE  SUPPORT TREATMENT CAN FS:BE INITIATED ON THIS PATIENT</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

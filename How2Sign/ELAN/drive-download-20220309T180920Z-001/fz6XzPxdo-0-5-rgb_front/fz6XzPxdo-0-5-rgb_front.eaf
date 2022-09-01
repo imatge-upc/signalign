@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-04-29T19:49:58+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/GoogleDrive/My Drive/Gloss-annotation/01_To_check(Gloss_DONE)/Kenny/fz6XzPxdo-0-5-rgb_front/fz6XzPxdo-0-5-rgb_front.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./fz6XzPxdo-0-5-rgb_front.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:db9c4b08-2537-4caa-8d44-d871fd6dd268</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">48</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="6080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="6080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="6080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="6080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="11660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="11660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="11660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="11660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="17610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="17610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="17617"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="17617"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="29110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="29110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="134590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="134590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="140730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="140730"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="fz6XzPxdo-0_0-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>So, now Grace and I have shown you a multitude of exercises that you can do with your partner.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="fz6XzPxdo-0_1-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>Now, we're going to show you some stretches that you can do with your partner.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="fz6XzPxdo-0_2-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>It's always very important to stretch after any exercise routine that you do.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="fz6XzPxdo-0_3-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>The benefits of stretching with a partner, is the partner will actually help you go a little further than you can do otherwise by yourself.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="fz6XzPxdo-0_17-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>And, you'll definitely get the benefits of flexibility by doing this stretch.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="fz6XzPxdo-0_0-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>FS-SO NOW FS-GRACE AND I-FORMAL FINISH SHOW FS-MULTIDE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="fz6XzPxdo-0_1-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>NOW SHOW SOME STRETCH YOU CAN DO WITH YOUR PARTNER</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="fz6XzPxdo-0_2-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>ALWAYS VERY IMPORTANT TO STRETCH AFTER ANY EXERCISE ROUTINE YOU FS-DO</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="fz6XzPxdo-0_3-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47" TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>BENEFITS OF STRETCHING WITH IS THE PARTNER ACTUALLY HELP-YOU GO FURTHER THAN YOU CAN DO.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="fz6XzPxdo-0_17-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>ALSO YOU WILL DEFINITELY GET BENEFITS FS-OF FLEXIBILITY FS-BY DOING THIS STRETCH</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

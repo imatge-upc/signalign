@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-06-22T00:01:53-05:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Users/kathleenroberts/Desktop/H2S - Linguistics 799/-FE9cQO9pmU-8-rgb_front/-FE9cQO9pmU-8-rgb_front.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./-FE9cQO9pmU-8-rgb_front.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:b97b4efe-abca-415c-8b08-3720d080f4ea</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">30</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="1390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="7540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="7540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="7540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="7540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="11790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="11790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="11840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="11840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="15570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="15570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="15860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="15860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="21970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="21970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="22080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="22080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="33920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="33920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="34150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="34150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="45680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="45680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="45770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="45770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="55190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="55190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="55220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="55220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="60120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="60120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="60430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="60430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="63240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="63240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="63250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="63250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="68590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="68590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="68760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="68760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="71760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="71760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="71760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="71760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="74090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="74090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="74260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="74260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="77590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="77590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="77760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="77760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="83320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="83320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="83520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="83520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="92380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="92380"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-FE9cQO9pmU_0-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>We're talking about yes, and and the idea of making offers, accepting offers, and building on those offers.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-FE9cQO9pmU_1-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>And I want to show you a game called yes, and brainstorm.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-FE9cQO9pmU_2-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>I like to do this game with a lot of my corporate clients.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-FE9cQO9pmU_3-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>It works well for businesses, meetings, organizations, anytime where people have to kind of create things together.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-FE9cQO9pmU_4-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>And how it works is you're going to get with your team, you can break up into groups of three, of four or five I think is a good size, it could go up to eight or ten.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-FE9cQO9pmU_5-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>And, what you're going to do is, is the team is going to have to come up with a new product and they're going to have to come up with an entire marketing plan for that product.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-FE9cQO9pmU_6-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>Come up with the packaging, the commercials, the jingle, the spokesperson, the billboards, you know, anything you can think of that would be part of the line of marketing.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-FE9cQO9pmU_7-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>What stores it might be in, what the slogan is going to be, and anything you can think of.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-FE9cQO9pmU_8-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>And they're going to have to do that as a group and they have to do it in three minutes.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-FE9cQO9pmU_9-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>And usually people at that point groan and go what are you talking about, that's impossible!</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-FE9cQO9pmU_10-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts43">
+                <ANNOTATION_VALUE>Well, it is possible with the magic of yes and.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-FE9cQO9pmU_11-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts47">
+                <ANNOTATION_VALUE>So, we're going to show you how it's done.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-FE9cQO9pmU_12-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts51">
+                <ANNOTATION_VALUE>We're going to do a yes, and marketing brainstorm.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-FE9cQO9pmU_13-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts55">
+                <ANNOTATION_VALUE>I'm going to shout out my first idea, and Shannon is going to yes, and that idea.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-FE9cQO9pmU_14-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts59">
+                <ANNOTATION_VALUE>He's going to say, yes, and, and then fill in the rest of his line, and we're going to go back and forth like that until we've got our product, all the product's features, its names, and the entire marketing plan.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-FE9cQO9pmU_0-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>WE EXPLAIN QUOTE YES THAT IDEA MAKE OFFER ACCEPT OFFER WHAT+DO THAT OFFER</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-FE9cQO9pmU_1-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>WANT SHOW GAME CALL+NAME YES BRAIN+INPUT</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-FE9cQO9pmU_2-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>TEND ENJOY DO THIS GAME A+LOT WITH MY BUSINESS CLIENT</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-FE9cQO9pmU_3-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>SUCCEED BUSINESS MEETINGS ORGANIZATIONS ANYTIME PEOPLE GATHER HAVE TO CREATIVE SOMETHING TOGETHER</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-FE9cQO9pmU_4-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>HOW THAT SUCCEED YOU NEED TEAM CAN SPLIT SPLIT+UP GROUP FS:3 FS:4 FS:5 THINK GOOD SIZE CAN UP+TO FS:8 FS:10</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-FE9cQO9pmU_5-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>WHAT+DO TEAM THERE THERE MUST CREATIVE NEW MAKE THINGS MUST ENVISION FULL MARKETING STORE PLAN THAT PRODUCT</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-FE9cQO9pmU_6-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>INVENT WITH PACKAGING COMMERCIAL SING SPOKESPERSON SIGN LMANY+MORE ANYTHING RELATED WITH MARKETING STORE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-FE9cQO9pmU_7-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>WHAT STORE WILL IN WHAT SIGN QUOTE ANYTHING CAN IMAGINE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-FE9cQO9pmU_8-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>DO THAT GROUP HAVE+TO DO FS:THREE+MINUTES</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-FE9cQO9pmU_9-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>TEND PEOPLE WILL WHAT IMPOSSIBLE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-FE9cQO9pmU_10-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts45">
+                <ANNOTATION_VALUE>POSSIBLE WITH MAGIC FS:YES</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-FE9cQO9pmU_11-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>SHOW HOW DO THAT</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-FE9cQO9pmU_12-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>WILL DO YES MARKETING BRAIN+INPUT</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-FE9cQO9pmU_13-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>GO AHEAD TELL FIRST IDEA FS:SHANNON WILL SAY YES THAT IDEA</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-FE9cQO9pmU_14-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts58" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>SAY YES+TO+ME ME GO AHEAD ADD BACK+AND+FORTH UNTIL FINISH GOT OUR PRODUCT HIS LIST NAME FULL MARKETING PLAN</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

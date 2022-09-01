@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-03-03T09:50:22+01:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Users/amandaduarte/Desktop/Gloss-annotations/Original_files/NEW-FILES/-c_OoOsTigw-5-rgb_front/-c_OoOsTigw-5-rgb_front.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./-c_OoOsTigw-5-rgb_front.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:bec75f51-64ef-4799-898e-492d7d0754ba</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">30</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="6200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="6200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="6220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="6220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="11080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="11080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="11080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="11080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="15770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="15770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="15800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="15800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="28090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="28090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="28100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="28100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="56430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="56430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="56460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="56460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="65090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="65090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="65090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="65090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="71440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="71440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="71440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="71440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="73920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="73920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="73920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="73920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="77820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="77820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="77820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="77820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="85140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="85140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="85140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="85140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="102080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="102080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="102080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="102080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="117310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="117310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="117310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="117310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="119690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="119700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="120720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="120720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="132500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="132500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="132500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="132500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="142750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="142750"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-c_OoOsTigw_0-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>For our meerkats, we're going to have to take it in two different steps.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-c_OoOsTigw_1-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>First off, we need to paint the rockery, and we're going to need to let that dry, and then we'll paint the meerkats on top of it.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-c_OoOsTigw_2-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>So, let's get our paint ready, and we're going to start filling in this area.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-c_OoOsTigw_3-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>So let's dip our brush in and get a nice big dollop of paint; making sure that the paint's not dripping too much from off off the brush, or at least you have a good drop cloth down.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-c_OoOsTigw_4-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>If you're kind of sick and tired of some of the detail work we've been doing, the rocks are very excellent therapy, cause' we're just going to basically plaster this with a nice matte; very, very light brown, maybe a touch of purple and pink in here, with some pink-red highlights to basically, kind of go back over the edges.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-c_OoOsTigw_5-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>I'm not even worried too much about the rocks shape at this point, because they'll be very easy to rediscover underneath the paint.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-c_OoOsTigw_6-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>Of course, you can leave these a little bit thinner if you're worried about making sure the, where the lines are.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-c_OoOsTigw_7-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>Otherwise, just go to town and slop it on.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-c_OoOsTigw_8-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>Make a nice thick coat.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-c_OoOsTigw_9-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>We're going to try to definitely avoid having to put on two coats here, because you don't have to do a lot of the detail work which can make the paint smear.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-c_OoOsTigw_10-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts43">
+                <ANNOTATION_VALUE>So again, just keep expanding up from the central area, and once you get towards the top of the rocks, like up in here, you may choose to like get a, you know, a smaller brush to get more of the detail on here.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-c_OoOsTigw_11-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts47">
+                <ANNOTATION_VALUE>Usually the rocks are a little bit bumpy and lumpy, so actually, unlike most of the rest of the painting, I find myself remaining comfortable with a bigger brush, even towards a lot of the edges.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-c_OoOsTigw_12-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts48" TIME_SLOT_REF2="ts51">
+                <ANNOTATION_VALUE>Now you could actually get up here higher, where you start getting into the feet in the meerkat details.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-c_OoOsTigw_13-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts55">
+                <ANNOTATION_VALUE>I may go down a brush to make sure I don't accidentally paint over the feet, cause I only want to be, make sure I can still see those lines when I do move to paint the meerkats later on.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-c_OoOsTigw_14-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts56" TIME_SLOT_REF2="ts59">
+                <ANNOTATION_VALUE>So you're going to continue this throughout, and you're going to let it dry, and then we're also going to add in some pink highlights, which I will demonstrate next.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-c_OoOsTigw_0-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>FOR OUR FS:MEERKATS GO TO HAVE TO TAKE IN 2 DIFFERENT STEP.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-c_OoOsTigw_1-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>FRIST TO PAINT THE ROCK CL:S+CL:S (several rocks around) AND THE FS:MEERKATS ON TOP.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-c_OoOsTigw_2-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>GET OUR PAINT READY TO START PAINT THIS AREA. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-c_OoOsTigw_3-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>DIP AND GET BIG FS:DOLLOP PAINT PAINT NOT DRIP MUCH FROM BRUSH WANT TO DROP FS:CLOTH DOWN.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-c_OoOsTigw_4-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>IF YOU ARE KIND SICK AND TIRED ROCK TO PAINT REALLY EXCELLENT THERAPY BECAUSE ME GO TO PLASTER THIS WITH NICE FS:MATTE REALLY LIGHT-LIGHT BROWN MAYBE LITTLE-BIT PURPLE PINK MIX WITH PINK RED LIGHT TO GO BACK OVER FS:EDGES. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-c_OoOsTigw_5-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts25">
+                <ANNOTATION_VALUE>ME NOT FS:EVEN WORRY MUCH ABOUT ROCK SHAPE FS:AT THIS POINT WHY YOU CAN FIND UNDERNEATH THE PAINT. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-c_OoOsTigw_6-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts29">
+                <ANNOTATION_VALUE>COURSE WHERE LINE YOU JUST WORRY ABOUT MAKE SURE WHERE THE LINE FS:ARE.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-c_OoOsTigw_7-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts33">
+                <ANNOTATION_VALUE>OTHERWISE YOU GO AHEAD CL:B (painting around)..</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-c_OoOsTigw_8-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts37">
+                <ANNOTATION_VALUE>MAKE REALLY NICE THICK CL:B(painting around).</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-c_OoOsTigw_9-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts41">
+                <ANNOTATION_VALUE>WANT TO PUT ON TWO PAINT+COAT  AGAIN AGAIN BECAUSE YOU NOT+WANT TO SEE PAINT FS:SMEARS.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-c_OoOsTigw_10-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts45">
+                <ANNOTATION_VALUE>FS:SO KEEP EXPAND FROM CL:B(up-down-up) TO CENTERAL AREA ONCE YOU GET TOWARD TO TOP ROCK LINE CL:B (painting small area) FOLLOW THE LINE PAINT. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-c_OoOsTigw_11-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts49">
+                <ANNOTATION_VALUE>KNOW ROCKS USUALLY BUMPY FS:LUMPY LUMPY FS:SO ACTUALLY FS:UN LIKE MOST REST PAINTING ME FIND MYSELF STRUGGLE NOW COMFORTABLE WITH BIG BRUSH FS:EVEN TOWARD WITH THE EDGE. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-c_OoOsTigw_12-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>WANT TO GET UP HIGH </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-c_OoOsTigw_13-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts57">
+                <ANNOTATION_VALUE>YOU WANT TO GO DOWN FS:A BRUSH TO MAKE SURE ME NOT ACCIDENT OVER FS:FEET WANT TO BE MAKE SURE CAN STILL SEE LINE WHEN DO MOVE TO PAINT. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-c_OoOsTigw_14-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts58" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>FS:SO GO TO CONTINUE THIS THROUGHOUT LET LEAVE DRY THEN WILL ADD SOME PINK LIGHT WHICH WILL DEMONSTRATE NEXT.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

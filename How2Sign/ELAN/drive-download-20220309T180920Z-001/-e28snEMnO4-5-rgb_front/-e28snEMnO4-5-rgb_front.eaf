@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-03-03T09:54:48+01:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Users/amandaduarte/Desktop/Gloss-annotations/Original_files/NEW-FILES/-e28snEMnO4-5-rgb_front/-e28snEMnO4-5-rgb_front.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./-e28snEMnO4-5-rgb_front.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:687a7789-dc6c-4293-83f4-146d02189cb5</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">16</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="6120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="6120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="6760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="6760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="18740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="18740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="18770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="18770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="28740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="28740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="28780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="28780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="43460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="43460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="43620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="43620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="45700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="45700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="45750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="45750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="48450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="48450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="48580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="48580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="65330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="65330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="65360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="65360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="95740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="95740"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-e28snEMnO4_0-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>When you're designing stuff, remember that functionality, always comes in to play.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-e28snEMnO4_1-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>Unless you're designing a couture collection, which is going to go run down the runway, and nobody's ever going to buy it, it's going to be more of a show.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-e28snEMnO4_2_3-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>Think about functionality, and you can have functionality with good design. You can have functionality with a little bit of pizazz.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-e28snEMnO4_4-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>This was from my collection, that was inspired by She-ra and I did mostly, boy shorts that were comfortable, that if you were a superhero, you can move in them.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-e28snEMnO4_5-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>You can go save the day.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-e28snEMnO4_6-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>You can go save dinner for somebody.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-e28snEMnO4_7-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>It's real life level, blown up and made fantastical, but still within keeping with a set frame of reference.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-e28snEMnO4_8-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>These again, boy shorts with design detail, and they have a more straight across, menswear inspired waistband, but the legs are girlier ,because they're arched up, and then I did my central panel as a design detail, and I added a band at the legs, and a band at the waist.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-e28snEMnO4_0-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>WHEN YOU ARE DESIGN THING REMEMBER THAT FUNCTION ALWAYS COME INTO FS:PLAY</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-e28snEMnO4_1-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>UNLESS YOU ARE DESIGN FS:A FS:COUTURE COLLECT WHICH IS TO RUN DOWN THE RUN WALK WAY IF SOMEONE GO TO BUY GO TO BE MORE OF FS:A SHOW</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-e28snEMnO4_2_3-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>THINK ABOUT THE FUNCTION YOU CAN HAVE FS:A FUNCTION WITH GOOD DESIGN YOU CAN HAVE FUNCTION WITH LITTLE OF FS:PIZAZ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-e28snEMnO4_4-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>THIS FROM MY COLLECT THAT WAS INSPIRE FS:BY FS:SHE-RA AND ME FS:DID MOST+FS:LY FS:OF THE FS:PIZAZ THEY HAVE SHORTS THAT ARE COMFORTABLE IF YOU ARE SUPER YOU CAN MOVE+AROUND</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-e28snEMnO4_5-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>YOU CAN GO SAVE DAY</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-e28snEMnO4_6-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>YOU CAN SAVE DINNER FOR SOMEBODY</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-e28snEMnO4_7-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>IT REAL LIFE EVENT REAL LIFE LEVEL BLOW+UP MAKE FASCINATE BUT STILL WITHIN SHAPE SET FS:OF FS:REFERENCE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-e28snEMnO4_8-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>AGAIN BOY SHORTS WITH DESIGN SPECIFIC AND THEY HAVE A STRAIGHT PERSON CL:G(horizonal stripe) INSPIRE BY BELT BUT LEGS ARE MORE GIRLY WHY ARE FS:ARCED FS:UP THEN ME DID MY CENTER FS:PANEL AND FS:AS DESIGN SPECIFIC AND ME ADD FS:BAND AT FS:LEGS AND FS:BAND AT THE WAIST</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

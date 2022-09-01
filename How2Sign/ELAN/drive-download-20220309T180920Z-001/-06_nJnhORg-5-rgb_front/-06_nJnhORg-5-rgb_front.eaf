@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-04-29T19:36:16+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/GoogleDrive/My Drive/Gloss-annotation/01_To_check(Gloss_DONE)/Kat/-06_nJnhORg-5-rgb_front/-06_nJnhORg-5-rgb_front.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./-06_nJnhORg-5-rgb_front.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:d41c34b5-ba8f-473f-a4c1-094488586855</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">40</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="4270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="4270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="25460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="25460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="26300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="26300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="46820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="46820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="46820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="46820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="66250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="66250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="66250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="66250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="87920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="87920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="87920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="87920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="98350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="98350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="98350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="98350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="107605"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="107605"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="107605"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="107605"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="112120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="112120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="112120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="112120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="118195"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="118195"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="118195"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="118195"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="122442"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="122442"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="122442"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="122442"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="135202"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="135202"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="135205"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="135205"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="144730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="144730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="144730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="144730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="151250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="151250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="151250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="151250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="158655"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="158655"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="158655"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="158655"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="169510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="169510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="169510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="169510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="186330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="186330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="186330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="186330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="196030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="196030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="196030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="196030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="198680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="198680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="198680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="198680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="210290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="210290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="210290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="210290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="223830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="223830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="224240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="225058"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-06_nJnhORg_0-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>Some of the days that are the hardest are when, you know, I start out first thing in the morning and things just, like I woke up on the wrong side of the bed, or...or whatever, you know, type of phrase you want to use.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-06_nJnhORg_2-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>You get a late start, you, you know, get to the house and it's an extra big mess, and, you know, you just....one thing after the other just leads to a tough day of...of a long tough day working.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-06_nJnhORg_3-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>Generally, I...I will schedule two to three houses a day, and if I get a late start then, you know, of course, that just delays the next job, and then the next job, and then it can be seven or eight at night when I get home.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-06_nJnhORg_4_5-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>And one thing that I like...I try not to do is to interfere with my client's family time as well. So, when I get a late start, and maybe I have a horrendous house that I had to clean and...and wasn't planning on it, then my day gets later and I start to intrude into their family time.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-06_nJnhORg_6_7-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>And...and that makes it tough for me, I don't...I don't like to do that at all. So that's probably the hardest part, is, if I don't start my day right.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-06_nJnhORg_8-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>So, I kind of have to mentally prepare myself for my day, so, that's probably the hardest day for me, is not preparing myself.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-06_nJnhORg_9-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>One of my toughest days are Thursdays.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-06_nJnhORg_10-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>I have lots of clients that want cleaning done Thursdays and Fridays, because they want it done right before the weekend.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-06_nJnhORg_11-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>So Thursdays are really jam-packed.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-06_nJnhORg_12-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts41">
+                <ANNOTATION_VALUE>I've got three very big jobs, three very big houses that have, you know, three and four bathrooms, and, just large houses...so, that makes for a really long day.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-06_nJnhORg_13-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>And, I had one of those days where I just woke up and things just didn't want to go my way.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-06_nJnhORg_14-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>So I...I continued to fight through it, fight through it...didn't feel real great.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-06_nJnhORg_15-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>So, got in the car, got to the first job, everything went, you know, okay....I was good, but I was still a little bit late.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-06_nJnhORg_16-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>So, got to the next job, and, you know, moving right along, and I go out to get some cleaning supplies out of my car, and it's locked.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-06_nJnhORg_17-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>And I go to get my keys out of my little supply box, and they weren't in there, so, I, you know, look around for my keys, and, sure enough, they are locked in my car and I have no extras.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-06_nJnhORg_18-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts63">
+                <ANNOTATION_VALUE>I have none at home, I have no extras, cause I have an extra key in my car, and I have my remote in my car.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-06_nJnhORg_19-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts64" TIME_SLOT_REF2="ts67">
+                <ANNOTATION_VALUE>And, so, that was kind of tough.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-06_nJnhORg_20-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts68" TIME_SLOT_REF2="ts71">
+                <ANNOTATION_VALUE>So, I, you know, I had to just fight through the cleaning, and had to have a lock-smith come out and open my doors, and I had to go to another job.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-06_nJnhORg_21-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts72" TIME_SLOT_REF2="ts75">
+                <ANNOTATION_VALUE>So, you know, sometimes when things just don't go your way...you know, you just have a rough day, and you go to bed that night and you hopefully wake up the next morning and.. and it's all better.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-06_nJnhORg_0-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>SOME DAY THAT ARE THE HARD FS:1 ARE WHEN KNOW ME START FS:OUT FIRST THING IN MORNING AND KNOW SOMETIME ME GET UP ON WRONG SIDE BED KNOW DIFFERENT TYPE TITLE YOU GO THROUGH USE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-06_nJnhORg_2-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>YOU GET LATE START YOU GET TO HOUSE AND ADD BIG MESS AND KNOW ET+CETERA ET+CETERA ONE THING AFTER ANOTHER LEAD TO A TOUGH DAY FS:OF FS:A LONG TOUGH DAY WORK</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-06_nJnhORg_3-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>GENERAL ME WILL SCHEDULE FS:2 TO FS:3 HOUSE FS:A DAY AND IF ME GET LATE START YOU+KNOW OF+COURSE THAT WILL RECENT DELAY NEXT JOB THEN ANOTHER JOB BUMP+BACK CL:CLOSED B(schedule pushed back all day) THEN IT CAN BE FS:7 FS:OR FS:8 FS:AT NIGHT WHEN ME BACK HOME </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-06_nJnhORg_4_5-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE>ONE THING ME LIKE ME TRY NOT TO DO IS TO INTERFERE WITH MY CLIENT FAMILY TIME ALSO FS:SO IF ME GET LATE START AND MAYBE ME HAVE FS:A INCREDIBLE MESSY HOUSE ME MUST CLEAN AND ME NOT PREPARE THEN MY DAY GET LATE AND LATE AND ME START TO INTERFERE INTO THEIR FAMILY TIME</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-06_nJnhORg_6_7-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts21">
+                <ANNOTATION_VALUE>AND THAT MAKE FS:IT TOUGH FOR ME ME DON'T+LIKE TO DO THAT FS:AT FS:ALL THAT POSSIBLE THE HARD FS:EST PART IF ME NOT START MY DAY RIGHT</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-06_nJnhORg_8-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts25">
+                <ANNOTATION_VALUE>I SO-SO HAVE TO MENTAL PREPARE MYSELF FOR MY DAY THAT TOUGH DAY FOR ME NOT TO PREPARE FOR MYSELF</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-06_nJnhORg_9-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts29">
+                <ANNOTATION_VALUE>FS:1 FS:OF MY TOUGH DAY FS:ARE THURSDAYS</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-06_nJnhORg_10-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts33">
+                <ANNOTATION_VALUE>ME HAVE A+LOT FS:OF CLIENT THAT WANT CLEAN FINISH THURSDAYS BEFORE THE WEEKEND</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-06_nJnhORg_11-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts37">
+                <ANNOTATION_VALUE>FS:SO THURSDAYS ARE REAL PACKED CL:OPEN 5(crowded) BUSY</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-06_nJnhORg_12-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>ME HAVE FS:3 BIG WORK FS:3 BIG HOUSE AND FS:3 FS:4 BED ROOM AND RECENT LARGE HOUSE FS:SO THAT MAKES FS:A REAL LONG DAY</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-06_nJnhORg_13-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts40" TIME_SLOT_REF2="ts45">
+                <ANNOTATION_VALUE>AND ME HAVE FS:1 FS:OF THOSE DAY WHERE ME RECENT WOKE+UP AND THING FS:S RECENT DON'T+WANT GO MY WAY</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-06_nJnhORg_14-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts49">
+                <ANNOTATION_VALUE>FS:SO ME CONTINUE TO FIGHT ME FIGHT FIGHT FIGHT THROUGH FS:IT NOT FEEL GREAT </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-06_nJnhORg_15-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts53">
+                <ANNOTATION_VALUE>ME GET+IN CAR ME PROGRESS YOU+KNOW FS:OK FS:OK ME GOOD BUT ME STILL LITTLE+BIT LATE </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-06_nJnhORg_16-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts57">
+                <ANNOTATION_VALUE>FS:SO TO THE NEXT JOB YOU+KNOW MOVE+AROUND PROGRESS ME GOT OUT TO GET SOME CLEANING THINGS OUT MY CAR AND LOCKED</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-06_nJnhORg_17-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts58" TIME_SLOT_REF2="ts61">
+                <ANNOTATION_VALUE>AND ME GO GET MY KEY OUT FS:OF MY THING BOX AND NOT THERE FS:SO YOU+KNOW ME OBSERVE FOR MY KEY AND SURE ENOUGH THEY LOCKED IN MY CAR ME NOT HAVE ADD</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-06_nJnhORg_18-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts65">
+                <ANNOTATION_VALUE>HAVE NONE FS:AT HOME ME HAVE NONE ADD ME HAVE ADD KEY IN MY CAR AND ME HAVE MY REMOTE IN MY CAR</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-06_nJnhORg_19-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts66" TIME_SLOT_REF2="ts69">
+                <ANNOTATION_VALUE>AND THAT TOUGH</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-06_nJnhORg_20-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts70" TIME_SLOT_REF2="ts73">
+                <ANNOTATION_VALUE>AND KNOW YOU KNOW RECENT HAVE TO FIGHT THROUGH CLEANING AND ME HAVE TO HAVE FS:A LOCK FS:SMITH OUT AND OPEN+DOOR FOR ME ME HAVE TO GO TO ANOTHER JOB</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-06_nJnhORg_21-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts74" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>SOMETIME WHEN THING FS:S NOT GO YOUR WAY YOU+KNOW YOU HAVE TOUGH DAY AND YOU GO TO+BED CL:C(bed, bedsheets) CL:CLOSED 2(person going under sheets) THAT NIGHTAND YOU HOPE WAKE+UP NEXT DAY AND BETTER</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

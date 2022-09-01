@@ -1,0 +1,1 @@
+The csv file that contains both the glosses from the ELAN videos, and the sentences from the csv obtained from github is "how2sign_realigned_train_SentenceAndGloss". On the other hand, the txt file indicating which sentences appeared in the csv file i downloaded but did not in the videos i analysed is "ExtraTiers"

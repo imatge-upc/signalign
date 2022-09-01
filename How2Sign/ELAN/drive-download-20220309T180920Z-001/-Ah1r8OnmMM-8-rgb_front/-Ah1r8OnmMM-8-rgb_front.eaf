@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-03-03T09:44:46+01:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Users/amandaduarte/Desktop/Gloss-annotations/Original_files/NEW-FILES/-Ah1r8OnmMM-8-rgb_front/-Ah1r8OnmMM-8-rgb_front.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./-Ah1r8OnmMM-8-rgb_front.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:c5a2cffe-7d1d-4ede-b285-d4edf7286051</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">16</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="7730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="7730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="7770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="7770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="14800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="14800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="14810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="14810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="18470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="18470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="18490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="18490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="26320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="26320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="26330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="26330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="35750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="35750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="35760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="35760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="56310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="56310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="56650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="56650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="61740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="61740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="61910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="61910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="80460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="80463"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-Ah1r8OnmMM_0-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>As you can see I've put down a few of the pieces now of my bottom layer, I'm going to move on to what I consider to be my next layer.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-Ah1r8OnmMM_1-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>So again, laying out some of my mixed medium onto my plexiglass board.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-Ah1r8OnmMM_2-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>Laying my piece out because it keeps it steady for me.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-Ah1r8OnmMM_3-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>Lifting it up in the corner with my brush, lifting it over and you know you are going to have a little bit of messiness, it is going to get on to your fingers.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-Ah1r8OnmMM_4-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>You want to make sure that though in between when are using different tools and stuff, you are being careful not to get too much on everything else because it's a lot to clean up later.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-Ah1r8OnmMM_5-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>So I push it down with my fingers, and I go right to my rag to wipe my fingers off, again lay some more down, and you can see I'm working fairly quickly, and the reason for this is when you have these adhesives laying down to the board acrylic gel mediums tend to dry very quickly just as acrylic paints do.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-Ah1r8OnmMM_6-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>Ok get that piece up so I'm going for reinforcements with my, there it goes.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-Ah1r8OnmMM_7-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>Sometimes it gets a little stuck, always wipe the edge though of your exacto blade off, that blade is going to end up tending to be a blade that your not really going to be able to use for cutting much anymore, so you may want to have two of the tools available to you so that in case one of them, you want to just keep that open for cutting and the other one you can use for lifting the materials up when they get stuck.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-Ah1r8OnmMM_0-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>FINISH SEE FINISH PUT+DOWN FEW PIECES WILL BOTTOM FLAT NOW MOVE+ON WHAT ME CONSIDER MY NEXT LEVEL </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-Ah1r8OnmMM_1-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>AGAIN LAYER SOME MY MIX FS:MEDIUM ON MY GLASS FLEXIBLE FLOOR</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-Ah1r8OnmMM_2-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>ME LAYER BECAUSE KEEP STABLE FOR ME</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-Ah1r8OnmMM_3-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>PAINT WITH BRUSH SCOOP+LIFT+FLIP OVER WILL MESSY WILL STICK+ON+FINGER </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-Ah1r8OnmMM_4-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>YOU WILL STICK ON YOUR TOOLS STUFF MUST CAREFUL NOT TO SPILL EVERYWHERE WILL HARD MEANS ALOT CLEAN++ LATER </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-Ah1r8OnmMM_5-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>ME GO+AHEAD CL:CLOSED 5(push down) THEN WASH+HANDS WIPE THEN PAINT MORE CL:CLOSED 5(add layer on top)++ FS:2 NOTICE ME WORK PROGRESS QUICK REASON WHY BECAUSE THAT GLUE STICK ON FLOOR WILL BECOME DRY QUICK THAT FS:ACRYLIC FS:GEL FS:MEDIUM SAME THEIR PAINT</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-Ah1r8OnmMM_6-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>THAT PIECE CL:CLOSED 5(scoop then pick up) NEED USE KNIFE HELP+ME</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-Ah1r8OnmMM_7-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>SOMETIMES STUCK STICK+ON ALWAYS WIPE EDGE CUT WIPE IF DO+NOT THEN THAT CUT WILL+NOT ABLE TO  CUT ANY MORE TEND SAVE FS:TWO TOOLS AVAILABLE IF ONE CUT OTHER STUCK READY PRY CAN</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

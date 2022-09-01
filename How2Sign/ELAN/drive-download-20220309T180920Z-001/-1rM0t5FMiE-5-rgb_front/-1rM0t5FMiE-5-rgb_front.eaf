@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-04-29T19:25:17+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/GoogleDrive/My Drive/Gloss-annotation/01_To_check(Gloss_DONE)/Kat/-1rM0t5FMiE-5-rgb_front/-1rM0t5FMiE-5-rgb_front.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./-1rM0t5FMiE-5-rgb_front.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:8265be20-113f-4d82-9e45-4f34ebeea1a9</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">18</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="3220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="3220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="3220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="3220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="6300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="6300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="6300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="6300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="18010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="18010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="18010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="18010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="33890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="33890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="33890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="33890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="46570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="46570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="46570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="46570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="49150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="49150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="49150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="49150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="83500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="83500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="83500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="83500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="104326"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="104326"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="104326"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="104326"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="107232"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="107232"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1rM0t5FMiE_0-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>We're doing the scissoring now.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1rM0t5FMiE_1-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>There are two types of scissors that I like to use.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1rM0t5FMiE_2-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>The straight pair of scissors that are straight and long and then curved pair of scissors that help with around the feet and areas like that.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1rM0t5FMiE_3-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>First I'm going to straighten up her leg, to where I position the leg where I want it and then I'm going to go down the backside of the leg.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1rM0t5FMiE_4-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>And if your dog tends to move, you might want to hold your dog this way and just and you go around the leg and take off the little pieces that are sticking out everywhere.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1rM0t5FMiE_5-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>It makes for a nice little leg here.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1rM0t5FMiE_6-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>And then we're going to go around to the front area of the leg and I'm going to go take the round scissors and round off the bottom and clean it up nice.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1rM0t5FMiE_7-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>Remove the hair and pull her leg up and keep finishing with the little pieces of hair that are sticking out here and there.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1rM0t5FMiE_8-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>It makes for a nice scissor leg.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1rM0t5FMiE_0-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts5">
+                <ANNOTATION_VALUE>WE DOING HAIRCUTTING NOW</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1rM0t5FMiE_1-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>THERE ARE TWO TYPE FS:OF SCISSOR ME LIKE USE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1rM0t5FMiE_2-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>STRAIGHT PAIR FS:OF SCISSORS THAT FS:ARE STRAIGHT LONG AND THEN CURVED FS:PAIR OF SCISSORS THAT HELP WITH CL:OPEN-B(FOOT, NON-DOMINANT HAND)+CL:OPEN-B(GOING AROUND FOOT, DOMINANT HAND) AROUND FS:FEET AND SURFACE LIKE THAT.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1rM0t5FMiE_3-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE>FIRST ME GO TO STRAIGHT UP HER FS:LEG TO WHERE ME POSITION FS:LEG WHERE ME WANT FS:IT THEN ME GO CL:2(CUTTING DOWNWARD) THE FS:BACKSIDE FS:OF THE FS:LEG</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1rM0t5FMiE_4-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts21">
+                <ANNOTATION_VALUE>IF YOUR FS:DOG TEND TO MOVE YOU WANT TO HOLD AND RECENT CL:2(CUTTING DOWNWARD) AROUND FS:LEG TAKE FS:OFF THE LITTLE PIECES THAT ARE CL:1(LEG, NON-DOMINANT HAND)+CL:4(MESSY HAIR STANDING UP, DOMINANT HAND) </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1rM0t5FMiE_6-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts29">
+                <ANNOTATION_VALUE>AND THEN ME GO AROUND FRONT FS:AREA FS:OF THE FS:LEG ME GO TO TAKE THE ROUND SCISSOR AND ROUND FS:OFF THE BOTTOM AND CLEAN IT FS:UP NICE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1rM0t5FMiE_7-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts33">
+                <ANNOTATION_VALUE>REMOVE FS:HAIR AND PULL FS:LEG FS:UP CONTINUE FINISH WITH LITTLE PIECES FS:OF HAIR THAT ARE CL:1(LEG, NON-DOMINANT HAND)+CL:4(MESSY HAIR STANDING UP, DOMINANT HAND) HERE AND THERE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1rM0t5FMiE_8-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>IT MAKE FS:IT NICE FOR FS:A SCISSOR FS:LEG</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1rM0t5FMiE_5-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>MAKE FS:A NICE LITTLE FS:LEG HERE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

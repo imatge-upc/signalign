@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-03-03T10:28:21+01:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Users/amandaduarte/Desktop/Gloss-annotations/Original_files/NEW-FILES/01okYWMvD-0-3-rgb_front/01okYWMvD-0-3-rgb_front.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./01okYWMvD-0-3-rgb_front.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:7443ece1-cc86-406c-8d7d-ba2689e90122</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">12</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="7240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="7240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="8000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="8000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="15480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="15480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="15480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="15480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="19990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="19990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="19990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="19990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="29420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="29420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="29450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="29450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="46120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="46120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="46130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="46130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="59920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="59920"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="01okYWMvD-0_0-3-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>Hello, my name is Sophia, I own the salon in Austin, Texas, Sophia Beauty Barber Salon.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="01okYWMvD-0_1-3-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>A lot of people, they have problems with back wrinkles and how we could remove back wrinkles perfectly.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="01okYWMvD-0_2-3-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>A lot of things on the market, some people get confused.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="01okYWMvD-0_3-3-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>And one of the best back wrinkle remover is the anti-aging cream and it's from Energy, it's on of the best.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="01okYWMvD-0_4-3-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>And also you could you use Aloe-Vera sometimes to remove the back wrinkle and sometimes we could use vitamin E, vitamin E is perfect way for the, removes the back wrinkles.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="01okYWMvD-0_5-3-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>And that's the way you could remove the back wrinkles, Energy, Aloe-Vera, vitamin E is one of the best in the market today we could trust.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="01okYWMvD-0_0-3-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>I-FORMAL FS:SOPHIA ME FS:OWN FS: SALON AUSTIN TEXAS FS:SOPHIA BEAUTY FS:BARBER FS:SALON.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="01okYWMvD-0_1-3-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>MANY PEOPLE PROBLEM BACK FS:WRINKLES HOW REMOVE BACK FS:WRINKLES PERFECT.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="01okYWMvD-0_2-3-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>MANY THINGS MARKET SOME PEOPLE BECOME CONFUSED.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="01okYWMvD-0_4-3-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>ALSO CAN USE FS:ALOE FS:VERA SOMETIMES TO REMOVE BACK FS:WRINKLES AND SOMETIMES WE USE FS:VITMAIN FS:E FS:VITAMIN FS:E PERFECT FOR REMOVE THEM BACK FS:WRINKLES.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="01okYWMvD-0_5-3-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>AND THAT WHAT CAN REMOVE BACK FS:WRINKLES ENERGY FS:ALOE FS:VERA FS:VITAMIN FS:E CL:3 (list)+CL:1 (all) ONE BEST MARKET TODAY WE CAN TRUST.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="01okYWMvD-0_3-3-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>ONE BEST BACK FS:WRINKLE REMOVER WHAT FS:ANTI AGING CREAM FROM ENERGY ONE BEST. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

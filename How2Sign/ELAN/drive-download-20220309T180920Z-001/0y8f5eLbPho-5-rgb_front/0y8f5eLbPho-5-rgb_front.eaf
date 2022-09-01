@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-03-03T10:08:02+01:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Users/amandaduarte/Desktop/Gloss-annotations/Original_files/NEW-FILES/0y8f5eLbPho-5-rgb_front/0y8f5eLbPho-5-rgb_front.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./0y8f5eLbPho-5-rgb_front.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:621cbe86-811b-4bfa-b337-803ccbaab85d</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">22</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="4960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="4960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="5180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="5180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="8050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="8050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="8050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="8050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="14290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="14290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="14290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="14290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="22290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="22290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="22320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="22320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="32230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="32230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="32350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="32350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="37540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="37540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="42680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="42680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="48110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="48110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="48110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="48110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="53070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="53070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="53070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="53070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="71600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="71600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="71610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="71610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="74110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="74110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="74180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="74180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="76260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="76260"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0y8f5eLbPho_0-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>O.k., the drink we're about to make is called a Pink Limon.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0y8f5eLbPho_1-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>We're going to serve this up in a martini glass.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0y8f5eLbPho_2-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>So put some ice and water in there and let it sit while you're making your drink and it'll be nice and cold.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0y8f5eLbPho_3-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>Alright we're going to measure out one and a half ounces of Bacardi Limon, our lemon flavored rum.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0y8f5eLbPho_4-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>And we're going to follow that up with two ounces of sour mix.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0y8f5eLbPho_5-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>And next we'll add a half ounce of cranberry juice.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0y8f5eLbPho_6-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>Let me add a little bit more than that, make sure it gets nice and pink.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0y8f5eLbPho_7-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>Alright, now we're going to shake it up, get everything nice and cold.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0y8f5eLbPho_8-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>Go ahead and pour out your ice water and get your strainer, pour it in, very full.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0y8f5eLbPho_9-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>And that is a Pink Limon.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0y8f5eLbPho_10-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts43">
+                <ANNOTATION_VALUE>Bottoms up.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0y8f5eLbPho_0-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>FS:OK THE DRINK GO TO MAKE IS NAMED A PINK FS:LIMON</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0y8f5eLbPho_1-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>GO TO POUR IN MARGARITA CUP</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0y8f5eLbPho_2-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>GET FS:ICE AND WATER THEN PUT IN YOUR DRINK BE NICE AND COLD</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0y8f5eLbPho_3-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>ALRIGHT WILL MEASURE FS:OUT FS:ONE AND HALF FS:OZ FS:OF FS:BACARDI FS: LIMON OUR LEMON FLAVORED FS:RUM</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0y8f5eLbPho_4-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>GO TO FOLLOW WITH FS:2 FS:OZ FS:OF SOUR FS:MIX</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0y8f5eLbPho_5-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>YOUR+TURN WILL ADD HALF FS:OZ FS:CRANBERRY JUICE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0y8f5eLbPho_6-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts29">
+                <ANNOTATION_VALUE>LET ME ADD LITTLE+BIT MORE THAN THAT MAKE SURE THAT GET NICE AND PINK</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0y8f5eLbPho_7-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts33">
+                <ANNOTATION_VALUE>FS:OK NOW GO+AHEAD AND SHAKE GET EVERYTHING NICE AND COLD</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0y8f5eLbPho_8-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>GO+AHEAD AND POUR YOUR FS:ICE WATER AND GET YOUR FS:STRAINER POUR REAL FULL FULL</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0y8f5eLbPho_9-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>AND THAT FS:A PINK FS:LIMON</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0y8f5eLbPho_10-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>CL:C(two glasses clinking together) TOAST</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

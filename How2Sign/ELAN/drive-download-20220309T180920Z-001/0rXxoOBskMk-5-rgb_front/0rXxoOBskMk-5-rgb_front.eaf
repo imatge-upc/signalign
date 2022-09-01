@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-03-03T09:15:35+01:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/Tiffany/OneDrive/Desktop/videos_to_gloss/0rXxoOBskMk-5-rgb_front/0rXxoOBskMk-5-rgb_front.mp4" MIME_TYPE="video/mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:bff90ea0-ff26-4d36-8ccc-8c0e9bdad9db</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">24</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="7520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="7520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="7660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="7660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="20370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="20370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="20480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="20480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="23630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="23630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="24090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="24090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="42180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="42180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="42420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="42420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="50550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="50550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="50660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="50660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="55840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="55840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="56110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="56110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="68030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="68030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="68280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="68280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="69040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="69040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="69090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="69090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="73210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="73210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="73340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="73340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="84970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="84970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="85250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="85250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="86240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="86240"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0rXxoOBskMk_0-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>I'm going to show you how to make a shot called a Sicilian Kiss, this is a really, really, really tasty shot.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0rXxoOBskMk_1-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>And this is a great shot if you arrive late to the bar and you're trying to catch up with everyone else, so do it as a beer chaser, do your shot first, then chase it with a beer.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0rXxoOBskMk_2-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>Alright, let me show you how to make this wonderful shot.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0rXxoOBskMk_3-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>We're going to start off with an ounce of amaretto, you can also do a 1/2 ounce if you would like, but you're late, so you really, really need to catch up, so we're going to give you an ounce of amaretto, and an ounce of southern comfort.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0rXxoOBskMk_4-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>Now I am using what's called a jigger to measure the alcohol for this shot.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0rXxoOBskMk_5-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>These are really great, you can get them at a bar supply store, or a liquor store.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0rXxoOBskMk_6-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>This side is an ounce, this side is a half ounce, perfect for parties, use it at work, great for mixing your drinks so you get your proportions correct.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0rXxoOBskMk_7-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>Alright.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0rXxoOBskMk_8-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>Now you have here what is called a Sicilian Kiss.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0rXxoOBskMk_9-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>Like I said, chase it with a beer, or you can pour this over ice, and you can do it as a chill shot, and either way, it's going to be really tasty.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0rXxoOBskMk_10-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts43">
+                <ANNOTATION_VALUE>Enjoy.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0rXxoOBskMk_0-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>SHOW HOW TO MAKE SHOT NAME FS:SICILLAN KISS IS REAL REAL DELICIOUS</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0rXxoOBskMk_1-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>GREAT IF YOU ARRIVE LATE TO BAR AND TRY TO CATCH-UP WITH EVERY THING ELSE FS:SO DO FS:IT FS:AS  BEER CHASE[agent]  DO YOUR SHOT FIRST THEN 2HCL:(chug) BEER</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0rXxoOBskMk_2-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>ALRIGHT LET SHOW HOW TO MAKE GREAT SHOT</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0rXxoOBskMk_3-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>START FS:OFF WITH ONE OUNCE FS:OF FS:AMARETTO YOU CAN DO HALF OUNCE IF YOU WANT  BUT YOU LATE FS:SO  YOU REAL NEED CATCH-UP ONE OUNCE FS:AMARETTO FS:SO TO SHOW GIVE ONE OUNCE FS:OF AMARETTO AND ONE OUNCE FS:OF SOUTH COMFORT </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0rXxoOBskMk_4-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>NOW ME USE WHAT NAME FS:JIGGER TO MEASURE ALCOHOL FOR THIS SHOT</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0rXxoOBskMk_5-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>THIS REALLY GREAT YOU CAN GET FS:IT BAR THING STORE FS:OR LIQURE STORE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0rXxoOBskMk_6-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>THIS SIDE IS FS:AN OUNCE  THIS SIDE HALF OUNCE PERFECT FOR PLAY USE FS:AT WORK GREAT FOR MIX ALCOHOL  GET YOUR PROPORTION RIGHT</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0rXxoOBskMk_7-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>ALRIGHT</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0rXxoOBskMk_8-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>HERE YOU HAVE[va-va]  WHAT NAME FS: SICILLIAN KISS</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0rXxoOBskMk_9-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>I SAI SAME-AS CHASE FS:IT WITH BEER FS:OR YOU CAN POUR OVER  FS:ICE AND YOU CAN DO FS:IT  AS COLD SHOT EITHER WAY IS REALY DELICIOUS GREAT</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0rXxoOBskMk_10-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>ENJOY</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

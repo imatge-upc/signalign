@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-03-03T09:05:02+01:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Users/amandaduarte/Desktop/Gloss-annotations/Original_files/-9GV_-VRpt8-8-rgb_front/-9GV_-VRpt8-8-rgb_front.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./-9GV_-VRpt8-8-rgb_front.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:127a1221-cb14-4a48-9f66-5c7187a0bf1e</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">31</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="14500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="14500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="22940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="22940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="22950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="22950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="26370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="26370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="26370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="26370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="29700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="29700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="29750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="29750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="32840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="32840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="33100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="33100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="37850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="37850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="37880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="37880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="39250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="39250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="39260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="39260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="49310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="49310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="50130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="50130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="61660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="61660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="63730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="63730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="69520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="69520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="69540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="69540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="72690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="72690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="74170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="74170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="83270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="83270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="84230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="84230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="91950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="91950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="91960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="91960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="95320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="95320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="95330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="95330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="99050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="99050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="99180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="99180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="108360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="108360"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-9GV_-VRpt8_0-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>Hi, this is Sean Hobson and what we're talking about right now is using the proper mechanics to become not only a good shooter, but a good shooter from the free throw line.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-9GV_-VRpt8_1-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>So the last step that we have is to finish out your free throw.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-9GV_-VRpt8_2-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>If Kyle steps up to the line right here and gets himself ready.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-9GV_-VRpt8_3-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>What we're going to talk about is you have a good base, you have a good foundation.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-9GV_-VRpt8_4-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>You're going to make the shot; you're going to follow through at the end of the shot.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-9GV_-VRpt8_5-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>That's the first thing in finishing.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-9GV_-VRpt8_6-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>But the most important thing is by using your legs, a lot of time you see players come up and shoot their free throw and they stay flat footed and then end up hitting the ball on the front of the rim.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-9GV_-VRpt8_7-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>What we always want to do is you always want to finish your free throw up on your toes because what that does is when you get up on your toes, that's using the bottom of your leg muscles and its giving you just that extra edge to get that ball up and over the rim.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-9GV_-VRpt8_8-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>The other thing you want to make sure and do is always follow through and end up out in front of you.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-9GV_-VRpt8_9-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>You never want to end up with the ball up here.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-9GV_-VRpt8_10-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts43">
+                <ANNOTATION_VALUE>What we see a lot of players do is they'll follow through, but then they'll pull their hand back and again, that's going to pull that basketball back a little bit and not let it go ahead and follow through the proper way.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-9GV_-VRpt8_11-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts47">
+                <ANNOTATION_VALUE>The last thing is we don't want to fall take our shot and fall back off the free throw line.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-9GV_-VRpt8_12-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts51">
+                <ANNOTATION_VALUE>If you shoot and you take a step back, it?s called negative energy.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-9GV_-VRpt8_13-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts55">
+                <ANNOTATION_VALUE>You're taking energy away from that basketball and not allowing it to go on down.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-9GV_-VRpt8_14-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts59">
+                <ANNOTATION_VALUE>So, remember when making a good free throw shot, its not just the shot, its also how you finish after the free throw that's going to make you a good free throw shooter.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-9GV_-VRpt8_0-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>HELLO I FS:SEAN FS:HOBSON BCL:(gesture-shrug)  NOW HERE APPROPRATE MOVE NOT ONLY GOOD SHOOT BUT GOOD BUT GOOD SHOOT FROM FREE SHOOT LINE </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-9GV_-VRpt8_1-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>THROUGH PERSON END FOR FREE SHOOT </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-9GV_-VRpt8_2-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>IF FS:KILE CL:1(Kile walking) 2HCL:(Kile walk to line) READY  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-9GV_-VRpt8_3-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>GOOD CL:2(leg stance) SET-UP GOOD FOUNDATION</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-9GV_-VRpt8_4-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>WILL BCL:(line up shot) TOGETHER THROUGH SHOOT END</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-9GV_-VRpt8_5-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>ONLY FIRST</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-9GV_-VRpt8_6-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>IMPORTANT END YOUR LEGS 2HCL:(during game, person approaches to shoot) FS:FEET CL:B(flat foot) BALL 2HCL:C(ball misses hoop,bouncing off)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-9GV_-VRpt8_7-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>WHAT-DO ALWAYS WANT FREE SHOOT END YOUR CL:B(feet, up on toes) WHY USE BOTTOM LEG MUSCLE HELP 2HCL:C(ball go in hoop)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-9GV_-VRpt8_8-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>WHAT-DO MAKE SURE ALWALY FOLLOW CL:5(hand shooting out in frount))</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-9GV_-VRpt8_9-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>NEVER WANT TO BCL:(shoot with bad arm position)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-9GV_-VRpt8_10-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>SEE NOW SHOOT BCL:(hand flops back)    BASKET BALL CL:3(basket ball flips back ) NOT CL:3( basket ball goes in) RIGHT WAY </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-9GV_-VRpt8_11-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>LAST WHAT-DO WANT-NOT SHOOT CL:1(falls back) NO SHOOT CL:1(  falls back across line)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-9GV_-VRpt8_12-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>ID YOU FS:DO THAT CALLED NEGATIVE ENERGY</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-9GV_-VRpt8_13-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>BALL 2HCL:(ball remove) NOT ALLOW BALL CL:1( ball tumble foward)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-9GV_-VRpt8_14-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts58" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>REMEMBER MAKE GOOD SHOOT</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

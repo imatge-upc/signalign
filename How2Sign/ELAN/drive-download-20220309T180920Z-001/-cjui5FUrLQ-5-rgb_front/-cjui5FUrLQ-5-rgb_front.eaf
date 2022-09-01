@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-04-29T19:41:49+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/GoogleDrive/My Drive/Gloss-annotation/01_To_check(Gloss_DONE)/Kat/-cjui5FUrLQ-5-rgb_front/-cjui5FUrLQ-5-rgb_front.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./-cjui5FUrLQ-5-rgb_front.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:30998390-ce33-4420-91f9-088af8f69c11</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">20</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="25750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="25750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="25760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="25760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="30540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="30540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="30550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="30550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="37260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="37260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="37260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="37260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="50280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="50280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="50280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="50280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="55540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="55540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="55540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="55540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="65730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="65730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="65730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="65730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="71790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="71790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="71900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="71900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="79540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="79540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="80500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="80500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="85910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="85910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="85990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="85990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="87640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="87640"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-cjui5FUrLQ_0-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>So from here, once you have the feet and the legs aligned, same thing as the standing pose, you will move the left hip forward and the right hip back, pressing into the rear heel.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-cjui5FUrLQ_1-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>Keep the forward knee right over the ankle.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-cjui5FUrLQ_2-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>Notice the support you have the support of the chair, but also notice the support as you press into your legs.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-cjui5FUrLQ_3-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>Notice the flexibility this is bringing into your hips and your shoulders as you come up into your version of supported verbadrasana 1.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-cjui5FUrLQ_4-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>"Either temple pose or ""V"" for victory pose."</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-cjui5FUrLQ_5-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>Shoulders move down and back, crown lifts, the chin is leveled.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-cjui5FUrLQ_6-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>All the energy is coming right on up the inhale and you can drop down a little more on the exhale.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-cjui5FUrLQ_7-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>Really rely on the support of the chair here, even though you feel your feet and your legs supporting you.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-cjui5FUrLQ_8-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>Let the chair support you, particularly if you have knee injuries or hip issues.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-cjui5FUrLQ_9-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>That's what this is for.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-cjui5FUrLQ_0-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>HERE YOU HAVE YOUR FS:FEET  CL:B(feet planted on ground) FS:LEGS CL:B(legs straight) STAND FS:POSE WILL MOVE FS:HIP LEFT FORWARD RIGHT FS:HIP BACK CL:BENT B(hips moving back and forth) PRESSURE INTO FS:REAR BACK FS:HEEL CL:CLOSED 5(foot) HEEL-IX </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-cjui5FUrLQ_1-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>CONTINUE FORWARD FS:KNEE OVER FS:ANKLE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-cjui5FUrLQ_2-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>YOU HAVE SUPPORT CHAIR ALSO NOTICE SUPPORT HELP FS:LEGS</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-cjui5FUrLQ_3-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE>NOTICE FLEXIBLE BRING INTO FS:HIPS AND YOUR SHOULDERS INTO VIEW FS:OF SUPPORT FS:VERBADRAMSANA FS:ONE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-cjui5FUrLQ_4-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts21">
+                <ANNOTATION_VALUE>FIRST FS:TEMPLE FS:POSE FS:OR SECOND FS:V FS:POSE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-cjui5FUrLQ_5-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts25">
+                <ANNOTATION_VALUE>SHOULDER DOWN BACK CROWN LIFT+UP ARMS+UP</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-cjui5FUrLQ_6-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>NOW BREATHE CAN ARMS+DOWN BY+SIDE WHILE EXHALE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-cjui5FUrLQ_7-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>WITH SUPPORT FS:OF YOUR CHAIR EVEN+THOUGH YOU FEEL YOUR FS:FEET FS:HIPS BALANCE </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-cjui5FUrLQ_8-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>LET CHAIR GO+AHEAD SUPPORT YOU SPECIFIC IF YOU HAVE FS:KNEE FS:HIP INJURY</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-cjui5FUrLQ_9-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>THAT WHAT CHAIR FOR</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

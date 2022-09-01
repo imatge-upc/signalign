@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-05-03T12:47:05+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/GoogleDrive/My Drive/Gloss-annotation/Done/andrea/1RgGCJ0hw6k-5-rgb_front/1RgGCJ0hw6k-5-rgb_front.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./1RgGCJ0hw6k-5-rgb_front.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:bb2b803b-bdbe-4be5-be2e-ab0983dea4b4</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">33</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="3540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="3540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="25660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="25660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="25660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="25660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="29360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="29360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="29370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="29370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="32100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="32100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="32100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="32100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="35220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="35220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="35220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="35220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="46310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="46310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="46310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="46310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="53870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="53870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="53890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="53890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="66600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="66600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="66600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="66600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="73080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="73080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="73080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="73080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="77805"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="77805"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="77805"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="77805"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="80147"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="80147"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="80147"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="80147"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="87000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="87000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="87000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="87000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="88110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="88110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="88110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="88110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="92970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="92970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="92980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="92980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="97580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="97580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="100320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="100320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="106270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="106270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="106300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="106300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="127480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="127480"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1RgGCJ0hw6k_0-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>CINDY MASTRY: Once you've mastered the revolved triangle pose, you can take this pose to a little bit deeper level by placing the block on the outside of the foot, rather, the inside of the foot.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1RgGCJ0hw6k_1-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>Faith is going to help me demonstrate that now.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1RgGCJ0hw6k_2-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>So she's going to find her long spine.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1RgGCJ0hw6k_3-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>It's always important to find your long spine first.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1RgGCJ0hw6k_4_5_6-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>And she's going to step her foot forward, just a couple of feet forward, not too far. Good. And she's going to take her left hand to her left hip.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1RgGCJ0hw6k_7-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>She's going to extend up through her right hand and lengthen out through her torso.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1RgGCJ0hw6k_8-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>As she exhales, she reaches out and forward keeping the length through both side bodies and then she's going to bring that block down to the pinkie toe side of her foot.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1RgGCJ0hw6k_9-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>A little bit more twist is involved, a little bit more massage for your abdominal muscles.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1RgGCJ0hw6k_10-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>Again, she's going to rotate her shoulder and her hip open.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1RgGCJ0hw6k_12-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>Keeping the hips square.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1RgGCJ0hw6k_13-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts40" TIME_SLOT_REF2="ts43">
+                <ANNOTATION_VALUE>And then when she's ready, she can extend her arm up to the sky.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1RgGCJ0hw6k_14-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts47">
+                <ANNOTATION_VALUE>Good.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1RgGCJ0hw6k_15-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts48" TIME_SLOT_REF2="ts51">
+                <ANNOTATION_VALUE>Pressing down into the block and reaching up through her finger tips.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1RgGCJ0hw6k_16-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts55">
+                <ANNOTATION_VALUE>She wants to reach the crown of her head forward and then allow her face to rotate.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1RgGCJ0hw6k_17-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts59">
+                <ANNOTATION_VALUE>You can look up to the hand but if that gives you a little more of a balance problem, then you can just look forward or down.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1RgGCJ0hw6k_18-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts63">
+                <ANNOTATION_VALUE>You want to have your neck comfortable and you want to be able to hold this pose in a position where you can inhale and breathe your spine long; and exhale, sink into the pose, allowing your hips, allowing your low spine and your pelvis to open, allowing your heart to open and your chest to open.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1RgGCJ0hw6k_0-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts5">
+                <ANNOTATION_VALUE>ONCE MASTER THE FS:REVOLVED TRIANGLE FS:POSE YOU CAN TAKE THIS FS:POSE TO FS: A LITTLE-BIT DEEP LEVEL FS:BY PLACE THE BLOCK ON FS:THE OUTSIDE FOOT INSTEAD INSIDE FOOT </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1RgGCJ0hw6k_1-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>FS:FAITH GO TO HELP-ME DEMONSTRATE THAT NOW.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1RgGCJ0hw6k_2-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE> SHE GO TO FIND HER LONG SPINE.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1RgGCJ0hw6k_3-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE>ALWAYS IMPORTANT TO FIND YOUR SPINE FIRST. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1RgGCJ0hw6k_4_5_6-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts21">
+                <ANNOTATION_VALUE>HAVE HER FS:FOOT CL: B (move foot forward) NOT FAR GOOD NOW  SHE GO TO TAKE HER LEFT HAND CL:5- CLOSED (hip)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1RgGCJ0hw6k_7-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>SHE GO FS:TO CL: 5-CLOSED (extend up through) RIGHT HAND CL: 5-CLOSED ("extend up through and lengthen out through") TORSO CL:5-CLOSED (hand lengthen out through her torso)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1RgGCJ0hw6k_8-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts29">
+                <ANNOTATION_VALUE>FS:AS SHE EXHALE SHE CL: 5 ( reach out and forward) TRUE-BUSINESS CL: S ( body bent forward) HAND TOUCH FS:FOOT</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1RgGCJ0hw6k_9-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>LITTLE-BIT FS: OF TWIST INVOLVE LITTLE-BIT MORE FS:A MASSAGE FOR FS:ABS MUSCLE.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1RgGCJ0hw6k_10-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts37">
+                <ANNOTATION_VALUE>AGAIN SHE GO TO ROTATE HER SHOULDER AND FS:HIP OPEN.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1RgGCJ0hw6k_12-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts41">
+                <ANNOTATION_VALUE>KEEP FS:HIPS SQUARE.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1RgGCJ0hw6k_13-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts45">
+                <ANNOTATION_VALUE>AND WHEN SHE READY WILL EXTEND HER ARM CL: 5 (arm up to the sky) FS:SKY.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1RgGCJ0hw6k_14-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts49">
+                <ANNOTATION_VALUE>GOOD.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1RgGCJ0hw6k_15-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>PRESS DOWN TO THE BLOCK AND REACH </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1RgGCJ0hw6k_16-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>WITH FS:CROWN HEAD FORWARD AND ALLOW  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1RgGCJ0hw6k_17-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts58" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>IF YOU HAVE FS:A BALANCE PROBLEM YOU CAN HEAD CL: S (turn head foward) LOOK FS:FORWARD FS:OR CL:S (turn head down)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="1RgGCJ0hw6k_18-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>YOU WANT TO HAVE YOUR NECK CONNECTED WITH YOUR POSITION WHERE YOU CAN BREATHE WITH YOUR SPINE LONG AND EXHALE FS:SINK INTO THE FS:POSE ALLOW  YOUR FS: HIP HIPS ALLOW YOUR LOW SPINE AND FS:PELVIS OPEN YOUR HEART TO OPEN CHEST OPEN.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

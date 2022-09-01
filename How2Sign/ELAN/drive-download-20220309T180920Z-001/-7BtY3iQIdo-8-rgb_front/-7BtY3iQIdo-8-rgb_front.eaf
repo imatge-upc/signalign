@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-03-03T09:40:42+01:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Users/amandaduarte/Desktop/Gloss-annotations/Original_files/NEW-FILES/-7BtY3iQIdo-8-rgb_front/-7BtY3iQIdo-8-rgb_front.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./-7BtY3iQIdo-8-rgb_front.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:57c06df7-31ae-43af-b35f-c8f739b48df2</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">45</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="7130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="7130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="8470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="8470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="14210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="14210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="14660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="14660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="17450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="17450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="18910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="18910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="20655"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="20655"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="20655"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="20655"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="23055"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="23055"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="23055"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="23055"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="34075"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="34075"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="34075"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="34075"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="37405"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="37405"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="37405"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="37405"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="40775"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="40775"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="40775"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="40775"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="44270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="44270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="45640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="45640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="47890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="47890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="48670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="48670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="51535"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="51535"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="51865"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="51865"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="54360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="54360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="55035"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="55035"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="62385"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="62385"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="64000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="64000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="66585"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="66585"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="68325"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="68325"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="73875"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="73875"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="79285"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="79285"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="80920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="80920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="80920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="80920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="90965"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="90965"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="94240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="94240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="95975"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="95975"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="96440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="96440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="104350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="104350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="104840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="104840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="114570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="114570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="114570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="114570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="120985"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="120985"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="125305"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="125305"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="128080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="128080"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-7BtY3iQIdo_0-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>Now, we're going to trim the edge of the opening of the ballet slipper with some little pearls.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-7BtY3iQIdo_1-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>And, we're going to pipe the pearls with a number four tip.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-7BtY3iQIdo_3-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>And, how you make pearls is you want to twist your bag.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-7BtY3iQIdo_4-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>Make it nice and tight.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-7BtY3iQIdo_5-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>And, you'll make little dots.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-7BtY3iQIdo_6-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>So, you just hold the tip over the paper or the cake about an eighth of an inch and you squeeze out until you get a little pearl.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-7BtY3iQIdo_7-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>And, as soon as it gets about this big then you pull it up.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-7BtY3iQIdo_8-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>Now, you don't want to squeeze squeeze squeeze and pull up and squeeze.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-7BtY3iQIdo_9-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>Because, you'll end up with something that looks like that.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-7BtY3iQIdo_10-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>So, you want to put pressure.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-7BtY3iQIdo_11-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts43">
+                <ANNOTATION_VALUE>Release pressure and pull up.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-7BtY3iQIdo_12-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts47">
+                <ANNOTATION_VALUE>Squeeze, release and pull up.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-7BtY3iQIdo_13-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts51">
+                <ANNOTATION_VALUE>Practice this on a piece of paper or a paper plate until you have a nice uniform pearl trim.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-7BtY3iQIdo_14-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts55">
+                <ANNOTATION_VALUE>And, then we'll move onto the cake.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-7BtY3iQIdo_15-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts59">
+                <ANNOTATION_VALUE>So, we're going to trim the edge where the white and the pink meet with this pearl border.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-7BtY3iQIdo_16-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>And, you're going to place them right on that border and go all the way around the cake.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-7BtY3iQIdo_17-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts67">
+                <ANNOTATION_VALUE>Remember, you're just holding the tip just slightly above the cake so that the frosting will come out and spread a little into a little circle.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-7BtY3iQIdo_18-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts71">
+                <ANNOTATION_VALUE>Releasing pressure before you pull up.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-7BtY3iQIdo_19-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts75">
+                <ANNOTATION_VALUE>This makes a nice delicate trim for the edge of the slipper.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-7BtY3iQIdo_20-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>When you finish the beading around the around the shoe, you want to make a little bow here.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-7BtY3iQIdo_21-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts83">
+                <ANNOTATION_VALUE>Just make a loop and another loop and two little strings coming down.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-7BtY3iQIdo_22-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts87">
+                <ANNOTATION_VALUE>And, then just a little dot there for the tie.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-7BtY3iQIdo_0-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>NOW WILL MAKE CL:B(foot)+CL:I(trim the edge) BALLET SHOES WITH LITTLE-BIT PEARLS.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-7BtY3iQIdo_1-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>WILL MAKE CL:S (pipe) PEARLS NUMBER 4 TIP.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-7BtY3iQIdo_3-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>UP-TO-YOU MAKE PERALS TWIST. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-7BtY3iQIdo_4-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE>NICE TIGHT. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-7BtY3iQIdo_5-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts21">
+                <ANNOTATION_VALUE>WILL MAKE DOTS. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-7BtY3iQIdo_6-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts25">
+                <ANNOTATION_VALUE>PAPER DO CL:S+CLS (hold the tip) PAPER CL:CLOSED- 5 (paper, non-dominant hand)+CL: S( squeeze out, dominant hand) 1/8 INCH SQUEEZE SEE LITTLE-BIT DOT GOOD CL:CLOSED- 5 (paper, non-dominant hand)+CL: S( squeeze out, dominant hand)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-7BtY3iQIdo_7-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts29">
+                <ANNOTATION_VALUE>SEE THAT BIG CL:CLOSED- 5 (paper, non-dominant hand)+CL: S( pull it up, dominant hand).</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-7BtY3iQIdo_8-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts33">
+                <ANNOTATION_VALUE>DONT+WANT CL:CLOSED- 5 (paper, non-dominant hand)+CL: S( squeeze out, dominant hand) SQUEEZE SQUEEZE SQUEEZE CL:CLOSED- 5 (paper, non-dominant hand)+CL: S( pull up dominant hand)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-7BtY3iQIdo_9-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>WILL LOOK-LIKE CL:CLOSED- 5 (paper, non-dominant hand)+CL: Q(teardrop, dominant hand).</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-7BtY3iQIdo_10-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>WANT NEED ADD PRESSURE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-7BtY3iQIdo_11-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>CL:CLOSED- 5 (paper, non-dominant hand)+CL: S( squeeze-pull up, dominant hand)   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-7BtY3iQIdo_12-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>CL:CLOSED- 5 (paper, non-dominant hand)+CL: S( squeeze, release, pull up, dominant hand)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-7BtY3iQIdo_13-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>PRACTICE ON PAPER FS:OR PAPER PLATE UNTIL DOTS LOOK SAME+SAME+SAME </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-7BtY3iQIdo_14-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
+                TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>THEN GO AHEAD CL:CLOSED- 5 (cake, non-dominant hand)+CL: S( squeeze out, dominant hand) CAKE.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-7BtY3iQIdo_15-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
+                TIME_SLOT_REF1="ts58" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>SEE PINK WHITE WHERE CL:B+CL:B (the white and the pink meet) WILL CL:B (paper, non-dominant hand)+CL: S( squeeze, release, pull up, dominant hand).</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-7BtY3iQIdo_16-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39"
+                TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts65">
+                <ANNOTATION_VALUE>CL:CLOSED- 5 (cake, non-dominant hand)+CL: I( right on that border and go all the way around the cake, dominant hand)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-7BtY3iQIdo_17-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40"
+                TIME_SLOT_REF1="ts66" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>REMEMBER JUST HOLD CL:CLOSED- 5 (cake, non-dominant hand)+CL: S( hold, dominant hand) LITTLE-BIT ABOVE CAKE THAT WANT SPREAD TO CL:CLOSED- 5 (cake, non-dominant hand)+CL:5-CLAW( shape of icing., dominant hand)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-7BtY3iQIdo_18-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41"
+                TIME_SLOT_REF1="ts70" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>CL:CLOSED- 5 (cake, non-dominant hand)+CL: S( squeeze, release, pull up, dominant hand).</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-7BtY3iQIdo_19-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42"
+                TIME_SLOT_REF1="ts74" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>WILL NICE TEND DELICATE FS:TRIM FOR EDGE SHOES.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-7BtY3iQIdo_20-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43"
+                TIME_SLOT_REF1="ts78" TIME_SLOT_REF2="ts81">
+                <ANNOTATION_VALUE>FINISH CL:CLOSED- 5 (shoes, non-dominant hand)+CL: S( beading around the shoe, dominant hand) WANT MAKE SURE GO AHEAD ADD SMALL BOW.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-7BtY3iQIdo_21-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44"
+                TIME_SLOT_REF1="ts82" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>CL:CLOSED- 5 (paper, non-dominant hand)+CL: S( stamp, dominant hand) CL:I (shape of loop, non-dominant hand)+CL:I (shape of loop, dominant hand) OTHER LOOP 2 STRING.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-7BtY3iQIdo_22-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45"
+                TIME_SLOT_REF1="ts86" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>THEN LITTLE DOT FOR TIE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

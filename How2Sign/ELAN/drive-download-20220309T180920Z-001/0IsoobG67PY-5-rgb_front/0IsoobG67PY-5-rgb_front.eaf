@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-05-21T17:10:11+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/GoogleDrive/My Drive/Gloss-annotation/Annotating/Main_folder/Tiffany/---01_DONE/---01_DONE/0IsoobG67PY-5-rgb_front/New_files/0IsoobG67PY-5-rgb_front.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./0IsoobG67PY-5-rgb_front.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:06209d4f-18b3-4876-8d84-8281cabd7205</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">18</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="15830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="15830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="33440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="33440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="33650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="33650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="52400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="52400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="52650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="52650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="69160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="69160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="69320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="69320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="75370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="75370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="75640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="75640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="80760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="80760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="80810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="80810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="84350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="84350"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0IsoobG67PY_0-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>Hi!</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0IsoobG67PY_2-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>A lot of us has started it into the journey down the garden path with vegetable gardening, growing vegetables out in the garden with our kids, with our moms and dads, with our grandparents maybe and it is one of the rewarding things you can do in the garden.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0IsoobG67PY_3-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>It is the bounty of bring forth from the earth, it's working your hands in the soil, it's actually eating the fruits of your labors they probably vegetable garden one of the rewarding things you could do.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0IsoobG67PY_4-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>It is a big topic there is a lot to it; there is a lot of things to go over in vegetable gardening, there is a lot of places to make mistakes but in all to all mother nature is along for the ride and she is going to help you out, help you find the right things to do.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0IsoobG67PY_5-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>Choosing the vegetables is as simple as a walk down to the supper market aisle.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0IsoobG67PY_6-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>Find the vegetable that you would like to eat and those are a good place to start.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0IsoobG67PY_7-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>Let's get started with our vegetable garden.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0IsoobG67PY_0-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>HELLO</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0IsoobG67PY_2-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>MUCH FS:OF US GO-AHEAD START INTO JOURNY WITH GARDEN PATH WITH VEGETABLE. GARDEN GROW  VEGETABLE [puff] CL:5(and other things) .WITH US MOTHER FATHER GRANDMOTHER GRANDFATHER MAYBE ONE FS:OF MOST AWARD THING CAN DO IN GARDEN</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0IsoobG67PY_3-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>IT IS THE FS:BOUNTY FS:OF BRING FS:FORTH FROM EARTH, IT IS WORK YOUR HAND IN FS:SOIL TRUE-BIZ EAT(over time) FROM FRUIT FS:OF WORK(over time), THAT POSSIBLE VEGETABLE GARDEN ONE FS:OF THE MOST AWARD THING CAN DO.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0IsoobG67PY_4-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>IT IS BIG TOPIC THERE MUCH TO FS:IT MUCH FS:OF  THING(s) TO GO OVER IN VEGETABLE GARDEN. MUCH MISTAKE(over time) TO ALL IN ALL  MOTHER NATURE FS:IS THERE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0IsoobG67PY_5-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>CHOOSE  THE VEGETABLE IS FS:AS SIMPLE  FS:AS WALK DOWN TO THE FOOD STORE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0IsoobG67PY_6-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>FIND VEGETABLE IT LIKE TO EAT(over time) GOOD PLACE TO START</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0IsoobG67PY_7-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>LET(s) GET START WITH US VEGETABLE GARDEN</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

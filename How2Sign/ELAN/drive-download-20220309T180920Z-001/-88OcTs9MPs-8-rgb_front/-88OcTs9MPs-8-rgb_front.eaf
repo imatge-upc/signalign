@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-05-21T17:19:47+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/GoogleDrive/My Drive/Gloss-annotation/Annotating/Main_folder/Tiffany/---01_DONE/-88OcTs9MPs-8-rgb_front/New_files/-88OcTs9MPs-8-rgb_front.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./-88OcTs9MPs-8-rgb_front.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:e2c3a539-758b-4438-8f5f-97be7a332394</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">14</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="7530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="7530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="7550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="7550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="11870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="11870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="11890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="11890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="24640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="24640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="25030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="25030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="50630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="50630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="50930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="50930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="58440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="58440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="59960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="59960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="61440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="61440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="61630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="61630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="64320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="64320"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-88OcTs9MPs_0-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>Hi this is Nigel with Blue Griffin Handyman and today we are going to talk about how to get rid of the paint smell in your house.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-88OcTs9MPs_1-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>The first thing to do, the best thing to do is to avoid the fumes altogether.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-88OcTs9MPs_2-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>Many paints these days come with a low VOC or a no VOC mixture and it will tell you on the back of the can like this one here says VOC at 132 grams per liter.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-88OcTs9MPs_3-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>Now VOC stands for volatile organic compounds and that is what is causing the fumes in your house so what you want to do if you have to use some of these paints with VOC in them the best thing to do is to open the windows, all the windows in the house and put a fan on one end of the house so you can draw all the fumes out of the house and try to go to the park for the day or something and get out of the house so you don't have the smell those nasty vapors.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-88OcTs9MPs_4-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>When you are using those type of paints with VOC in them definitely use some kind of breathing protection that will filter out those kinds of fumes.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-88OcTs9MPs_5-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>They are not good for you.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-88OcTs9MPs_6-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>So that is how to get the paint smell out of your house.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-88OcTs9MPs_0-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>ME FS: NIGEL  WITH BLUE FS: GRIFFIN FS: HANDYMAN NOW DAY WILL DECIDE REMOVE PAINT SMELL HOUSE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-88OcTs9MPs_1-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>FIRST WHAT-DO AVOID SMELL CL:5(shows smell represented) COMBINE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-88OcTs9MPs_2-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>PAINT NOW HAVE LOW FS:VOC FS:OR NONE FS:VOC WILL INFORM YOU CL:2(eyes notice, reading from back) FS:VOC FS:132 GRAM EVERY LITER</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-88OcTs9MPs_3-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>FS:VOC CL:(SHRUG) FS:VOLATILE FS:ORGANIC FS:COMPOUNDS THAT CAUSE SMELL CL:5(smell fumes) YOUR HOUSE WHAT-DO IF REQUIRE USE IT PAINT WITH FS:VOC WHAT-DO GO-AHEAD WINDOW CL:(windows open) ALL HOUSE FAN CL:(fan blows through house) OUT SMELL GO TREE MANY FOR DAY SOME-THING OUT HOUSE  NOT NEED CL:(inhale vapors)  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-88OcTs9MPs_4-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>WHEN USE KIND PAINT WITH FS:VOC IMPORTANT USE BREATH CL:5(mask) PROTECTION CL:(fumes)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-88OcTs9MPs_5-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>NOT GOOD FOR YOU</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-88OcTs9MPs_6-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>HOW SMELL PAINT REMOVE HOUSE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

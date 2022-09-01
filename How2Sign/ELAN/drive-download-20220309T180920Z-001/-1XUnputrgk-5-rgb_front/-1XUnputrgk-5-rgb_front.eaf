@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-04-29T19:28:51+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/GoogleDrive/My Drive/Gloss-annotation/01_To_check(Gloss_DONE)/Kat/-1XUnputrgk-5-rgb_front/-1XUnputrgk-5-rgb_front.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./-1XUnputrgk-5-rgb_front.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:edb8f3a3-3790-47a2-8594-41b2dfb59171</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">48</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="3630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="3630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="3630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="3630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="4990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="4990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="4990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="4990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="13130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="13130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="13140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="13140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="18400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="18470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="18470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="18470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="24330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="24330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="24330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="24330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="27600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="27600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="29100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="29100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="33580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="33580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="33580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="33580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="36160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="36160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="36320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="36320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="39610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="39610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="39610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="39610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="42500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="42500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="44120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="44120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="47350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="47350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="47730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="47730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="50170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="50170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="50170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="50170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="52690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="52690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="52690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="52690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="55380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="55380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="55380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="55380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="58400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="58400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="58400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="58400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="60220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="60220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="60220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="60220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="68730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="68730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="68730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="68730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="70690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="70690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="71270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="71270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="75030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="75030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="75030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="75030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="77965"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="77965"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="77965"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="77965"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="82412"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="82412"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="82412"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="82412"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="86560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="86560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="86560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="86560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="91320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="91320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="91320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="91320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="94250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="94250"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1XUnputrgk_0-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>Okay, another thing that for me is important.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1XUnputrgk_1-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>It may not be for you.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1XUnputrgk_2-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>But for me I use very strong chemicals.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1XUnputrgk_3-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>Some people may prefer to use products that don't have chemicals.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1XUnputrgk_4-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>But because I do, I enjoy having the disinfectants.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1XUnputrgk_5-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>I like to wear a mask while I'm cleaning.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1XUnputrgk_6-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>Because you don't need to be breathing those chemicals in.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1XUnputrgk_7-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>Especially you know when, I'm pregnant.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1XUnputrgk_8-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>A lot of women, a lot of you out there.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1XUnputrgk_9-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>And men too that clean bathrooms.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1XUnputrgk_10-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts43">
+                <ANNOTATION_VALUE>Feel free to get the.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1XUnputrgk_11-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts47">
+                <ANNOTATION_VALUE>You have little masks, they're just paper masks.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1XUnputrgk_12-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts48" TIME_SLOT_REF2="ts51">
+                <ANNOTATION_VALUE>You can get them at Home Depot or Lowes.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1XUnputrgk_13-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts55">
+                <ANNOTATION_VALUE>And they're actually called painters masks.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1XUnputrgk_14-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts56" TIME_SLOT_REF2="ts59">
+                <ANNOTATION_VALUE>Some of them are just made of paper.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1XUnputrgk_15-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts60" TIME_SLOT_REF2="ts63">
+                <ANNOTATION_VALUE>But they're very affordable.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1XUnputrgk_16-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts64" TIME_SLOT_REF2="ts67">
+                <ANNOTATION_VALUE>You can get a pack of, you know, several for just a couple of dollars.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1XUnputrgk_17-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts68" TIME_SLOT_REF2="ts71">
+                <ANNOTATION_VALUE>So make sure you.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1XUnputrgk_18-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts75">
+                <ANNOTATION_VALUE>If you have those, keep them in here on hand.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1XUnputrgk_19-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts76" TIME_SLOT_REF2="ts79">
+                <ANNOTATION_VALUE>You know, it protects your health when you're cleaning.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1XUnputrgk_20-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts80" TIME_SLOT_REF2="ts83">
+                <ANNOTATION_VALUE>You don't have to worry about any hazardous chemical getting into your system.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1XUnputrgk_21-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts84" TIME_SLOT_REF2="ts87">
+                <ANNOTATION_VALUE>And it just makes the whole process a lot safer for you.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1XUnputrgk_22-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts88" TIME_SLOT_REF2="ts91">
+                <ANNOTATION_VALUE>And for your children if you have children that help out cleaning around the house.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1XUnputrgk_23-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts92" TIME_SLOT_REF2="ts95">
+                <ANNOTATION_VALUE>So I would recommend having a mask on hand.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1XUnputrgk_0-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts5">
+                <ANNOTATION_VALUE>FS:OK ANOTHER THING FOR ME IS IMPORTANT</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1XUnputrgk_1-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>MAYBE NOT FS:BE FOR YOU</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1XUnputrgk_2-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>BUT FOR ME ME USE VERY STRONG CHEMICAL</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1XUnputrgk_3-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE>SOME PEOPLE PREFER TO USE PRODUCT THAT NOT HAVE CHEMICAL</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1XUnputrgk_4-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts21">
+                <ANNOTATION_VALUE>BUT BECAUSE ME FS:DO ME ENJOY HAVE THE NOT FS:INFECTANTS</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1XUnputrgk_5-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>ME LIKE TO WEAR MASK WHILE ME CLEAN</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1XUnputrgk_6-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts29">
+                <ANNOTATION_VALUE>BECAUSE YOU NOT NEED TO FS:BE BREATHE IN THOSE CHEMICAL INHALE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1XUnputrgk_7-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>ESPECIALLY WHEN YOU KNOW YOU PREGNANT</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1XUnputrgk_8-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts37">
+                <ANNOTATION_VALUE>A LOT WOMEN A LOT FS:OF YOU+THERE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1XUnputrgk_9-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>MEN TOO THAT CLEAN BATHROOM</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1XUnputrgk_10-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>GO+AHEAD FREE TO GET THE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1XUnputrgk_11-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts49">
+                <ANNOTATION_VALUE>YOU HAVE LITTLE MASK </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1XUnputrgk_12-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts53">
+                <ANNOTATION_VALUE>CAN FS:BE FIND FS:AT FS:HD FS:OR FS:LOWES</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1XUnputrgk_13-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts57">
+                <ANNOTATION_VALUE>THEY ARE ACTUALLY CALLED PAINTER'S MASK</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1XUnputrgk_14-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts58" TIME_SLOT_REF2="ts61">
+                <ANNOTATION_VALUE>SOME FS:OF THEM ARE RECENT MADE OUT FS:OF PAPER</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1XUnputrgk_15-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts65">
+                <ANNOTATION_VALUE>REAL AFFORDABLE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1XUnputrgk_16-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts66" TIME_SLOT_REF2="ts69">
+                <ANNOTATION_VALUE>YOU CAN GET BOX FS:OF SEVERAL RECENT FOR AROUND FEW FS:OF DOLLAR</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1XUnputrgk_17-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts70" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>MAKE SURE YOU</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1XUnputrgk_18-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts74" TIME_SLOT_REF2="ts77">
+                <ANNOTATION_VALUE>IF YOU HAVE THOSE KEEP THEM HERE IN HAND</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1XUnputrgk_19-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts78" TIME_SLOT_REF2="ts81">
+                <ANNOTATION_VALUE>FS:IT PROTECT YOUR HEALTH WHEN YOU ARE CLEANING</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1XUnputrgk_20-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45" TIME_SLOT_REF1="ts82" TIME_SLOT_REF2="ts85">
+                <ANNOTATION_VALUE>NOT HAVE TO WORRY ABOUT DANGEROUS CHEMICALS GET INTO YOUR SYSTEM</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1XUnputrgk_21-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts86" TIME_SLOT_REF2="ts89">
+                <ANNOTATION_VALUE>AND IT MAKE THE WHOLE PROCESS A LOT SAFE FOR YOU</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1XUnputrgk_22-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47" TIME_SLOT_REF1="ts90" TIME_SLOT_REF2="ts93">
+                <ANNOTATION_VALUE>FS:AS FOR YOUR CHILDREN IF YOU HAVE CHILDREN THAT HELP CLEAN AROUND HOUSE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1XUnputrgk_23-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48" TIME_SLOT_REF1="ts94" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE>FS:SO WOULD RECOMMEND HAVE MASK READY AVAILABLE THERE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

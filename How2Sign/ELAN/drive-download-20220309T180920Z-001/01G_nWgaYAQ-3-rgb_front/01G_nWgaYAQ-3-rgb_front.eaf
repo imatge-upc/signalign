@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-03-03T10:27:38+01:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Volumes/GoogleDrive/My Drive/Gloss-annotation/Done/andrea/01G_nWgaYAQ-3-rgb_front/01G_nWgaYAQ-3-rgb_front.mp4" MIME_TYPE="video/mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:ffcc7e94-e0a8-4843-b23d-723c3af5fd24</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">25</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="5000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="5000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="8750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="8750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="8900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="8900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="13600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="13600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="13600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="13600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="20720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="20720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="20780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="20780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="22460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="22460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="24040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="24040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="28080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="28080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="33060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="33060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="43650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="43650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="43960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="43960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="53810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="53810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="54190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="54190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="59360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="59360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="59600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="59600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="66270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="66270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="68700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="68700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="75030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="75030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="75440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="75440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="84100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="84100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="84120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="84120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="92040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="92040"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="01G_nWgaYAQ_1-3-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>Today I would be talking about how to tack up a horse.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="01G_nWgaYAQ_2-3-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>Now that the bridle is on, you want to make sure that it is fitted well.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="01G_nWgaYAQ_3-3-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>You want to make sure that the bit is high enough, that there is 2-3 wrinkle in the corner of his mouth.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="01G_nWgaYAQ_4-3-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>Right now there is non.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="01G_nWgaYAQ_5-3-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>So tighten that up.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="01G_nWgaYAQ_6-3-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>So now you can see that there is wrinkles in the corner of his mouth and it always important to put the pieces in the keepers.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="01G_nWgaYAQ_7-3-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>Now adjusting the nose band, you want to make sure that the nose band goes underneath the cheek pieces.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="01G_nWgaYAQ_8-3-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>It is just a little higher of the bit but just underneath his cheek bone there.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="01G_nWgaYAQ_9-3-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>So I'm going to put that up a couple of holes once again tucking each piece under its keeper.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="01G_nWgaYAQ_10-3-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>As you put the nose band on, the nose band should be snugged.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="01G_nWgaYAQ_11-3-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts43">
+                <ANNOTATION_VALUE>As we put the throat latch on, you still want to be able to fit about a fist right here.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="01G_nWgaYAQ_12-3-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts47">
+                <ANNOTATION_VALUE>It is important that you don't make this one too tight cause then when they go to flex, it can cut off some circulation.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="01G_nWgaYAQ_1-3-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>TODAY ME DISCUSS HOW FS:TACK UP HORSE.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="01G_nWgaYAQ_2-3-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>NOW FS:BRIDLE BRIDLE ON IMPORTANT MAKE SURE FIT WELL.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="01G_nWgaYAQ_3-3-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>MAKE SURE FS:BIT HIGH ENOUGH HAVE TWO THREE FS:WRINKLE CL:FLAT BABY-O(corner of the mouth) MOUTH.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="01G_nWgaYAQ_4-3-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>RIGHT+NOW NONE. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="01G_nWgaYAQ_5-3-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>FS:SO TIGHT CL:BABY-O(tighten that up).</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="01G_nWgaYAQ_6-3-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>GOOD NOW NOTICED FS:WRINKLES CL:G( corner of the mouth) MOUTH CORNER CL:1(tighen that up) IMPORTANT HAVE PIECES IN KEEPERS.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="01G_nWgaYAQ_7-3-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>NOW ADJUST CL:1( nose) BAND MAKE SURE BAND CL:BABY-C( band under cheek) CHEEK PART CL:BABY-C( band under cheek) UNDER.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="01G_nWgaYAQ_8-3-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE> LITTLE HIGH THAN FS:BIT BUT UNDER CHEEK BONE THERE. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="01G_nWgaYAQ_9-3-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>CL:F(PUT UP) FEW HOLES ABOVE AGAIN INSIDE EACH PIECE IN KEEPER. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="01G_nWgaYAQ_10-3-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>NOSE BAND FINISH SHOULD TIGHT FIT  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="01G_nWgaYAQ_11-3-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>THEN THROAT LATCH ON STILL WANT MAYBE ABOUT FIST CL:S(fist on the cheek).</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="01G_nWgaYAQ_12-3-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>NOT TIGHT WHY IF CL:S(head down) CL:B(cut off neck) CHOKE SOME CIRCULATION. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-03-03T09:52:23+01:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Users/amandaduarte/Desktop/Gloss-annotations/Original_files/NEW-FILES/-CtWAhfREEc-8-rgb_front/-CtWAhfREEc-8-rgb_front.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./-CtWAhfREEc-8-rgb_front.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:5d098cf9-4952-4d04-af51-a43b75ecbef2</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">28</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="3760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="3760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="9570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="9570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="9620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="9620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="13720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="13720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="13810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="13810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="21100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="21100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="21560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="21560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="24820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="24820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="25040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="25040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="31130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="31130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="31530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="31530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="34000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="34000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="34150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="34150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="38480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="38480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="38540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="38540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="40990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="40990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="41350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="41350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="42330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="42330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="42350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="42350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="48880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="48880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="49190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="49190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="51170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="51170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="51230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="51230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="54700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="54700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="55920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="55920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="60020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="60020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="60040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="60040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="62960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="62960"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-CtWAhfREEc_1-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>What we've gone over today is sleight of hand using the Pinch Vanish and the French Drop.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-CtWAhfREEc_2-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>Very important in magic again that I want to emphasize that you are entertaining by way of manipulating an object.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-CtWAhfREEc_3-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>Really enjoy it, make it look effortless, make it look enjoyable to you and it will be to them as well.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-CtWAhfREEc_4-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>You're not using magic to show them, oh look what I can do.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-CtWAhfREEc_5-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>You really can use magic to put yourself out there to make yourself relaxed, get to know people.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-CtWAhfREEc_6-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>It's a form of entertainment that helps people really relax.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-CtWAhfREEc_7-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>You can really get to know somebody on a really quick and fast basis by performing an illusion.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-CtWAhfREEc_8-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>And after all, you are pulling coins out of their ears, and so forth.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-CtWAhfREEc_9-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>But again, enjoy.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-CtWAhfREEc_10-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>Enjoy the reactions, enjoy your magic as much as they're going to enjoy it and you will really love the art of magic.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-CtWAhfREEc_11-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts43">
+                <ANNOTATION_VALUE>It's very important that that's happens as such.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-CtWAhfREEc_12-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts47">
+                <ANNOTATION_VALUE>But practice; don't reveal your secrets to your audience.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-CtWAhfREEc_13-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts51">
+                <ANNOTATION_VALUE>And never do the same trick twice, and have a good time.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-CtWAhfREEc_14-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts55">
+                <ANNOTATION_VALUE>That's a very important, maybe the most important rule of magic, is to enjoy it.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-CtWAhfREEc_1-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>WHAT FINISH DISCUSS TODAY CL:4(hands holding several cards) FS:PINCH VANISH AND FRENCH DROP</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-CtWAhfREEc_2-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>REAL IMPORTANT EMPHASIZE REAL ENJOY WAY OF MANIPULATION OBJECT</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-CtWAhfREEc_3-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>REAL ENJOY MAKE LOOK NOTHING EASY MAKE LOOK ENJOY TO YOU THEN AUDIENCE WILL</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-CtWAhfREEc_4-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>YOU NOT USE MAGIC SHOW+THEM LOOK ME DO+DO</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-CtWAhfREEc_5-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>WANT USE MAGIC TO PUT YOURSELF OUT THERE LOOK COMFORTABLE RELAX KNOW PEOPLE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-CtWAhfREEc_6-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>REALLY HELP THEM ENJOY RELAX</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-CtWAhfREEc_7-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>REALLY CAN LEARN THEN FAST EASY THROUGH MAGIC </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-CtWAhfREEc_8-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>LIKE COINS CL:2(pull out of ear) </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-CtWAhfREEc_9-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>ENJOY </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-CtWAhfREEc_10-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>WATCH THEIR REACTION ENJOY YOUR MAGIC THEY WILL ENJOY ALSO WILL LOVE ART OF MAGIC</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-CtWAhfREEc_11-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>REAL IMPORTANT THAT HAPPEN</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-CtWAhfREEc_12-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>PRACTICE DON'T SHOW SECRET YOUR AUDIENCE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-CtWAhfREEc_13-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>NEVER AGAIN SAME TRICK TWICE HAVE GOOD TIME</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-CtWAhfREEc_14-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>THAT MOST IMPORTANT RULE MAGIC ENJOY</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

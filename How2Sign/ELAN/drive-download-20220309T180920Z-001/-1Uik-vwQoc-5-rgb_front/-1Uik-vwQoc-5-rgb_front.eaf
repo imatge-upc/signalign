@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-04-29T19:26:51+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/GoogleDrive/My Drive/Gloss-annotation/01_To_check(Gloss_DONE)/Kat/-1Uik-vwQoc-5-rgb_front/-1Uik-vwQoc-5-rgb_front.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./-1Uik-vwQoc-5-rgb_front.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:7f189833-486c-44d0-8d88-ebc68b569d1a</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">20</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="2210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="2210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="11860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="11860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="11860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="11860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="24720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="24720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="24750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="24750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="27920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="27920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="27920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="27920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="34060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="34060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="34080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="34080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="37550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="37550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="37550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="37550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="55340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="55340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="55340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="55340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="64390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="64390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="64390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="64390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="75580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="75580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="75580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="75580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="79470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="79470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="79470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="79470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="87150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="87150"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1Uik-vwQoc_0-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>I'm Cooie Grey-Lavin and in this clip, I'll show you how to use unique headstones to customize your yard.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1Uik-vwQoc_1-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>Another way to add interest to your yard, in our family we make little headstones for all our dogs that have died.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1Uik-vwQoc_2-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>This particular one is our Golden Retriever.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1Uik-vwQoc_3-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>Scooter, so that's his name in old typeset.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1Uik-vwQoc_4-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>These are the colors that were in his collar.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1Uik-vwQoc_5-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>He was a Golden Retriever, so we have that and he also loved to chase raccoons and he had chased one a short time before he died, so we put a raccoon in it.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1Uik-vwQoc_6-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>That you can place around the yard, it's a simple mosaic stepping stone technique but we just added some different pieces to make it more interesting.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1Uik-vwQoc_7-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>You can add memorial plaques or plaques for members of your family that are, don't live there and you miss them to sort of remembrances.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1Uik-vwQoc_8-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>They add a nice personal touch to your yard.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1Uik-vwQoc_9-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>Adding a mosaic headstone to your yard can make more personal and unique.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1Uik-vwQoc_0-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts5">
+                <ANNOTATION_VALUE>I-FORMAL FS:COOIE FS:GREY FS:LAVIN AND THIS FILM ABOUT SHOW HOW TO USE UNIQUE HEAD FS:STONES PUT IN YOUR YARD</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1Uik-vwQoc_1-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>OTHER WAY TO ADD INTEREST IN YOUR YARD IN OUR FAMILY WE MAKE LITTLE HEAD FS:STONES FOR ALL OUR DOGS THAT DIE BURY DIE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1Uik-vwQoc_2-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>IN THIS SPECIFIC ONE IS OUR GOLD RECEIVE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1Uik-vwQoc_3-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>FS:SCOOTER THIS HIS FINGERSPELL HIS NAME IN OLD FS:TYPESET</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1Uik-vwQoc_4-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts21">
+                <ANNOTATION_VALUE>THESE ARE THE COLORS IN WERE IN HIS COLLAR</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1Uik-vwQoc_5-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts25">
+                <ANNOTATION_VALUE>HE GOLD RECEIVER FS:SO WE HAVE THAT AND FS:HE ALSO LOVE TO FS:CH CHASE RACOON AND FS:HE CHASED ONE BEFORE FS:HE DIE FS:SO WE PUT RACCOON ON FS:IT</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1Uik-vwQoc_6-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts29">
+                <ANNOTATION_VALUE>YOU CAN SPACE THAT AROUND IN YOUR YARD WITH SIMPLE FS:MOSAIC STEP STONE TECHNIQUE MAKE MORE INTERESTING</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1Uik-vwQoc_7-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts33">
+                <ANNOTATION_VALUE>YOU CAN ADD FS:MEMORIAL PLAQUES OR PLAQUES FOR MEMBER FS:OF YOUR FAMILY THAT FS:AR NOT LIVE THERE AND YOU MISS IN RELATE TO REMEMBER MEMORIAL</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1Uik-vwQoc_8-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts37">
+                <ANNOTATION_VALUE>THAT ADD FS:A NICE PERSONAL TOUCH TO YOUR YARD</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-1Uik-vwQoc_9-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE> ADD FS:MOSAIC GLASS HEAD STONE TO YOUR YARD CAN MAKE FS:IT MORE PERSONAL AND UNIQUE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

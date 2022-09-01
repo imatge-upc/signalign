@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-05-03T12:50:53+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/GoogleDrive/My Drive/Gloss-annotation/Done/kat/-3bw4dQEyF8-5-rgb_front/-3bw4dQEyF8-5-rgb_front.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./-3bw4dQEyF8-5-rgb_front.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:caa6ac3d-5b88-48c3-ac9e-cd55b5ddcbee</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">18</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="9960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="9960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="9960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="9960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="19230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="19230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="19230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="19230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="34850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="34850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="34850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="34850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="45315"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="45315"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="46790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="46790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="58725"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="58725"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="58725"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="58725"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="80450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="80450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="80795"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="80795"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="103140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="103140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="103150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="103150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="104880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="104880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="104880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="104880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="107050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="107050"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-3bw4dQEyF8_0-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>You know, a medical emergency in an infant, can be a pretty scary and traumatic process, for a parent or a rescuer.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-3bw4dQEyF8_1-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>Hi, I'm Captain Joe Bruni, and what I'm going to talk about, is how to stop choking in the infant victim.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-3bw4dQEyF8_2-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>The infant victim must first be placed in the rescuer's arm, supporting the head, and chest area on the forearm.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-3bw4dQEyF8_3-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>Find a place where you can sit with the victim, placing them head down, and supporting the head.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-3bw4dQEyF8_4-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>You will then deliver a series of five back blows, and five chest thrusts, in succession, so it would be one, two, three, four, five.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-3bw4dQEyF8_5-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>Roll the victim over, supporting the head and body, on the other forearm, and deliver five chest thrusts, in succession, until the object has been dislodged.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-3bw4dQEyF8_6-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>After a series of five back blows, and chest thrusts, if it has not been dislodged, then repeat the process, of back blows and chest thrusts, until the item is dislodged from the infant.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-3bw4dQEyF8_7-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>I'm Captain Joe Bruni.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-3bw4dQEyF8_8-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>Stay safe, and we'll see you next time.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-3bw4dQEyF8_0-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts5">
+                <ANNOTATION_VALUE>YOU KNOW FS:A MEDICAL EMERGENCY IN INFANT CAN BE PRETTY SCARE AND TRAUMATIC PROCESS FOR PARENT FS:OR FS:A RESCUER</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-3bw4dQEyF8_1-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>HELLO I-FORMAL FS:CAPTAIN FS:JOE FS:BRUNI AND ME GO TO TALK ABOUT HOW TO STOP CHOKE IN BABY VICTIM</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-3bw4dQEyF8_2-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>THE BABY VICTIM MUST BE FIRST PLACE IN THE RESCUE ARM SUPPORT HEAD AND THE CHEST AREA ON FOREARM.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-3bw4dQEyF8_3-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>FIND PLACE WHERE YOU CAN SIT WITH VICTIM PLACE THEM HEAD DOWN AND SUPPORT HEAD BABY CL:CLOSED FIST(PUT HEAD IN HAND)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-3bw4dQEyF8_4-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts21">
+                <ANNOTATION_VALUE>YOU WILL THEN DO A SERIES FS:OF FS:5 BACK FS:BLOWS AND FS:5 CHEST COMPRESSION IN SUCCESSIVE THAT BE FS:1 FS:2 FS:3 FS:4 FS:5</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-3bw4dQEyF8_5-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>FLIP+OVER VICTIM FLIP+OVER SUPPORT HEAD BODY AND ON OTHER FOREARM AND GO+AHEAD DO FS:5 CHEST THRUST UNTIL THE THING HAVE FS:BEEN FS:DISLODGED</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-3bw4dQEyF8_6-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>AFTER PROCESS OF FS:5 BACK FS:BLOWS AND CHEST FS:THRUSTS UNTIL THE THING FS:IS SPIT+OUT FROM BABY</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-3bw4dQEyF8_7-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts33">
+                <ANNOTATION_VALUE>I-FORMAL CAPTAIN FS:JOE FS:BRUNY</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-3bw4dQEyF8_8-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>STAY SAFE UNTIL NEXT TIME</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

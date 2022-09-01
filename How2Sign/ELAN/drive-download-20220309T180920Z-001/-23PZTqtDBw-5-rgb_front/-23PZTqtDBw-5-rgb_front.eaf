@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-03-03T09:08:44+01:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Volumes/GoogleDrive/My Drive/Gloss-annotation/Annotating/Main_folder/Tiffany/---01_DONE/-23PZTqtDBw-5-rgb_front/New_files/-23PZTqtDBw-5-rgb_front.mp4" MIME_TYPE="video/mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:8551d331-eca1-4376-8aec-8858f557bcce</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">37</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="1660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="4520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="4520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="5000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="5000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="7920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="7920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="7920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="7920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="8570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="8570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="8660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="8660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="36340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="36340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="36700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="36700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="40440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="40440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="40460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="40460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="44310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="44310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="44310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="44310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="52910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="52910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="52920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="52920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="55620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="55620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="55620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="55620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="56580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="56580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="56970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="56970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="71760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="71760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="72590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="72590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="88750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="88750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="89160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="89160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="92590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="92590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="92840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="92840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="98390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="98390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="98980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="98980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="105200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="105200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="105220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="105220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="123330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="123330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="126120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="126120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="129770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="129770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="129780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="129780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="135110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="135110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="135260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="135260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="140040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="140040"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-23PZTqtDBw_0-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>Off-season training for football.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-23PZTqtDBw_1-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>Isolated plank dog pointers.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-23PZTqtDBw_2-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>Okay?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-23PZTqtDBw_3-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>So this is the last exercise in our isolated series, working from the dumbbell rows to the hops to the lateral hops, forward hops, and now we are going to do plank position, and we are going to do dog pointers, which is the same exercise that we did in our previous workout, but this time we are going to do it isolated.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-23PZTqtDBw_4-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>We are going to stick with one side, we are going to add another variability into it.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-23PZTqtDBw_5-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>So Jonsey go ahead, pop up into your plank position.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-23PZTqtDBw_6-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>We are going to get the elbow and the knee to touch underneath your body each time, and then get the full extension out.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-23PZTqtDBw_7-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>So touch and full extension out.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-23PZTqtDBw_8-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>Alright?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-23PZTqtDBw_9-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>This is really going to put focus on shoulder stability of the off shoulder and off hip, at the same time working for balance and coordination and mobility through your torso as you are working.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-23PZTqtDBw_10-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts43">
+                <ANNOTATION_VALUE>So we are going to work one side of the body, and then we will work the other side of your body, and we want to follow a rep scheme of anywhere from ten reps to fifteen reps per side.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-23PZTqtDBw_11-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts47">
+                <ANNOTATION_VALUE>Again that is ten reps to fifteen reps per side.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-23PZTqtDBw_12-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts51">
+                <ANNOTATION_VALUE>For the bigger guys it is going to be a bit harder I know, but still try to stay with it.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-23PZTqtDBw_13-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts55">
+                <ANNOTATION_VALUE>It is really going to help with your stability and coordination and balance on the field.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-23PZTqtDBw_14-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts59">
+                <ANNOTATION_VALUE>And then after we finish with this exercise, when we come back and start the workouts all over again with workout one, you are going to have a lot more stability and balance to help develop more power.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-23PZTqtDBw_15-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts65">
+                <ANNOTATION_VALUE>So thanks a lot for joining us here, I appreciate it.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-23PZTqtDBw_16-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts67">
+                <ANNOTATION_VALUE>I am mike Rosengart and this is my workout partner Jonsey.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-23PZTqtDBw_17-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts71">
+                <ANNOTATION_VALUE>Check us out again online and have a good workout.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-23PZTqtDBw_0-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>FS:OFF SEASON PRATICE FOR FOOT-BALL </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-23PZTqtDBw_1-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>ISOLATE FS:PLANK FS:DOG POINT</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-23PZTqtDBw_2-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>FS:OK</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-23PZTqtDBw_3-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>THIS IS THE LAST EXERCISE IN PRATICE OUR ISOLATE SERIES WORK  FROM THE BACK FS: BELL  FS:ROWS TO FS:THE TOPS FORCE FS:THE FS:TOPS AND GO TO DO FS:PLANK POSITION DO FS:DOG POINT(agent) WHICH SAME-AS EXERCISE US FS:DID  BEFORE EXEERCISE GO-AHEAD DO FS:IT ISOLATE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-23PZTqtDBw_4-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>US ARE GO TO STICK WITH ANOTHER VAIRY INCLUDE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-23PZTqtDBw_5-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts25">
+                <ANNOTATION_VALUE>FS:SO FS:JONSEY GO-AHEAD CL2:(plank position) </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-23PZTqtDBw_6-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>USE YOUR BCL:(elbow)  FS:KNEES TO TOUCH UNDER YOUR BODY EACH TIME TO GET FULL BCL:(extention) FS:OUT </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-23PZTqtDBw_7-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts33">
+                <ANNOTATION_VALUE>FS:SO TOUCH FS:OFF FULL BCL:(extention) FS:OUT</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-23PZTqtDBw_8-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>ALRIGHT?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-23PZTqtDBw_9-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>GO-AHEAD FOCUS ON BCL:(shoulders) STABLE FS:OFF THE FS:OF BCL(shoulders) AND OFF THE FS:HIPS AND SAME-TIME WORK FOR BALANCE CONNECT MOVEMENT THROUGH YOUR FS:TORSO BCL:(torso) FS:AS YOU FS:ARE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-23PZTqtDBw_10-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>GO-AHEAD WORK ONE SIDE FS:OF THE BODY THEN WORK THE OTHER SIDE FS:OF THE BODY  WANT TO FOLLOW FS:A AGAIN(over time)  FS:SCHEME FS:OF ANOTHER AGAIN(over time) TEN TO FIFTEN AGAIN(overtime) FS:PER SIDE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-23PZTqtDBw_11-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>AGAIN THAT IS TEN TO FIFTEN AGAIN(over time) FS:PER SIDE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-23PZTqtDBw_12-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>FOR THE BIG GUY IT GO TO BE LITTLE-BIT HARD KNOW BUT STILL TRY TO STAY TO HELP</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-23PZTqtDBw_13-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>TO HELP YOU WITH YOUR STABLE AND CONNECT BALANCE CL:1(on the field)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-23PZTqtDBw_14-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts58" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>AND THEN US FINISH WITH THIS EXERCISE WHEN  US BACK TO START EXERCISE AGAIN WITH EXERCISE ONE YOU GO TO HAVE MUCH MORE STABLE AND BALANCE TO HELP DEVELOPE MORE POWER</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-23PZTqtDBw_15-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>FS:SO THANK-YOU MUCH FOR CONNECT ME APPRECIATE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-23PZTqtDBw_16-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts64" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>I-AM FS:MIKE FS: ROSENGART AND THIS MY EXERCISE SHARE(agent) FS: JONSEY</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-23PZTqtDBw_17-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                TIME_SLOT_REF1="ts70" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>CHECK US OUT AGAIN ONLINE AND GOOD WORKOUT</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

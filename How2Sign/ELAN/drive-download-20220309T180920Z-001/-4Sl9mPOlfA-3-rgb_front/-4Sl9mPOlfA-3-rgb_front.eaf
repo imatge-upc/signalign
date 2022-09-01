@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-05-03T12:34:19+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/GoogleDrive/My Drive/Gloss-annotation/Done/kat/-4Sl9mPOlfA-3-rgb_front/-4Sl9mPOlfA-3-rgb_front.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./-4Sl9mPOlfA-3-rgb_front.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:d128d6c0-28f8-4aee-b2ca-47f23dbf24e3</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">16</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="10110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="10110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="11500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="11500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="20710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="20710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="20710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="20710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="24220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="24220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="24230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="24230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="26220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="26220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="26220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="26220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="35605"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="35605"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="35605"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="35605"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="38275"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="38275"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="40060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="40060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="41990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="41990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="43280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="43280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="47840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="47840"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-4Sl9mPOlfA_0-3-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>I like to put the glue bottle down sideways like this because it's a little bit quicker, you don't have to let the glue run all the way down like when you put it upright.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-4Sl9mPOlfA_1-3-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>Take a brush, little glue brush just like this, and spread this glue out very very thoroughly.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-4Sl9mPOlfA_2-3-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>Make sure you get all the way to the end.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-4Sl9mPOlfA_3-3-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>Cover everything.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-4Sl9mPOlfA_4-3-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>And you don't want a whole lot of sloppy glue running everywhere but you do want to have enough to completely coat all the parts.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-4Sl9mPOlfA_5-3-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>And then we'll brush it out a little bit.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-4Sl9mPOlfA_6-3-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>That looks pretty good.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-4Sl9mPOlfA_7-3-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>Set that down and we're going to do the same thing to this side.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-4Sl9mPOlfA_0-3-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>ME PREFER GLUE BOTTLE POUR LITTLE BIT FASTER NOT MUST LEAVE GLUE CL:4(FLOW DOWNWARDS) FULL</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-4Sl9mPOlfA_1-3-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>GRAB BRUSH LITTLE BLUE PAINT FS:GLUE BRUSH SAME THAT CL:5-CLOSED(SPREAD OUT) CL:5-OPEN(DISTRIBUTE) FULL DEEP</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-4Sl9mPOlfA_2-3-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>MAKE SURE ALL THROUGH END RIGHT THERE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-4Sl9mPOlfA_3-3-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE>COVER EVERYTHING</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-4Sl9mPOlfA_4-3-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts21">
+                <ANNOTATION_VALUE>DON'T WANT GLUE CL:5-OPEN(SPILL EVERYWHERE) NO DIRTY NO BUT WANT ENOUGH FULL COVER ALL </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-4Sl9mPOlfA_5-3-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>THEN PAINT PAINT PAINT LITTLE BIT</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-4Sl9mPOlfA_6-3-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>APPEARANCE GOOD</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-4Sl9mPOlfA_7-3-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>MOVE THEN SAME AGAIN THAT SIDE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

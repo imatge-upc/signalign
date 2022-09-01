@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-08-10T11:47:41+02:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/GoogleDrive/My Drive/Gloss-annotation/Done/train-mini_How2Sign/kat/0yiQ9NTT6Ek-5-rgb_front/New_files/0yiQ9NTT6Ek-5-rgb_front.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./0yiQ9NTT6Ek-5-rgb_front.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:05cf9b39-2f6d-435f-a5ac-711cbb9f3bff</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">18</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="2400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="2400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="13090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="13090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="13090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="13090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="23010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="23010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="23010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="23010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="33300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="33300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="37730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="37730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="60310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="60310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="60310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="60310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="89360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="89360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="89360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="89360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="99630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="99630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="99630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="99630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="117690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="117690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="117690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="117690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="133850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="133850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="133880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="133880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="140800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="140800"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0yiQ9NTT6Ek_0_1_2_3-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>Hello. This is J.B. I'm with Austin Homebrew Supply here in beautiful Austin Texas. Today we're talking a little bit about wine making equipment.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0yiQ9NTT6Ek_4-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>Now, right now I want to talk about a particular testing instrument called a refractometer.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0yiQ9NTT6Ek_5-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>A refractometer is one other way, one other testing instrument that you could use to figure out the sugar content in a liquid.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0yiQ9NTT6Ek_6-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>So, with the refractometer what you would do; you would take the refractometer and you would take the pipette that is also part of the refractometer kit and let's say you're out in a vineyard and you want to test the sugar content of a grape.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0yiQ9NTT6Ek_7-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>You would simply take one of the grapes off the vine, break it, use your pipette to draw a sample out of it and then open the cover on the refractometer, take your pipette, put a couple of drops on it, on the face plate here and then drop that cover back down.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0yiQ9NTT6Ek_8-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>Then you would simply take this guy, hold it into the sunlight and look into the end of it.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0yiQ9NTT6Ek_9-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts29">
+                <ANNOTATION_VALUE>There would be a scale that will be generated by this face plate that when you read it from the inside there will be a line at the particular sugar content that this particular grape has.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0yiQ9NTT6Ek_10-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>So, by using one of these refractometers you're able to figure out the sugar content of whatever liquid you're trying to; you're trying test the sugar content of.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0yiQ9NTT6Ek_11-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>So, that's just a little bit about how to use a refractometer.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0yiQ9NTT6Ek_0_1_2_3-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts5">
+                <ANNOTATION_VALUE>HELLO I-FORMAL FS:JB WITH AUSTIN HOME FS:BREW THING HERE IN AUSTIN TEXAS TODAY TO TALK LITTLE+BIT ABOUT WINE MAKE EQUIPMENT</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0yiQ9NTT6Ek_4-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>NOW ME WANT TO TALK ABOUT FS:A SPECIFIC TESTING INSTRUMENT CALLED A FS:REFRACTOMETER</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0yiQ9NTT6Ek_5-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>THIS IS ONE FS:OF OTHER WAY TESTING INSTRUMENT YOU CAN USE TO FIGURE+OUT THE SUGAR CONTENT IN LIQUID</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0yiQ9NTT6Ek_6-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE>FS:SO WITH THE FS:REFRACTOMETER WHAT YOU WOULD DO WOULD TAKE THAT SPECIFIC AND YOU WILL MAKE IT INTO THE FS:PIPETTE THERE IS ALSO PART FS:OF THE FS:REFRACTOMETER FS:KIT LET FS:S SAY YOU ARE OUT IN FS:A FS:VINEYARD YOU WANT TO TEST THE SUGAR CONTENT OF A GRAPE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0yiQ9NTT6Ek_7-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts21">
+                <ANNOTATION_VALUE>WOULD SIMPLE TAKE FS:ONE FS:OF THE GRAPES FS:OFF THE FS:VINE BREAKS USE YOUR FS:PIPETTE TO DRAW FS:A DRAW A FS:SAMPLE OUT FS:OF FS:IT AND OPEN THE COVER ON THE FS:REFRACTOMETER TAKE YOUR FS:PIPETTE AND PUT FEW DROPS ON IT ON THE FACE FS:PLATE HERE AND THEN DROP THE COVER BACK DOWN</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0yiQ9NTT6Ek_8-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts25">
+                <ANNOTATION_VALUE>THEN YOU WOULD SIMPLE TAKE THIS BOY HOLD FS:IT INTO THE SUN AND LOOK INTO THE END FS:OF FS:IT</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0yiQ9NTT6Ek_9-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>THERE WILL BE FS:A SCALE AVERAGE THAT WILL BE FS:GENERATED BY THIS FACE FS:PLATE THAT WHEN YOU READ FROM THE INSIDE THERE WILL BE FS:A LINE RELATE SUGAR CONTENT IN THIS SPECIFIC GRAPE HAVE SO USE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0yiQ9NTT6Ek_10-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>SO USE OF FS:OF THOSE FS:REFRACTOMETERS BE ABLE TO FIGURE THE SUGAR CONTENT FS:OF WHATEVER LIQUID YOU TRY FS:TO YOU ARE TRY TESTING THE SUGAR CONTENT FS:OF</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0yiQ9NTT6Ek_11-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>FS:SO RECENT THAT RECENT LITTLE+BIT ABOUT HOW TO USE FS:A FS:REFRACTOMETER</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-06-03T15:48:01+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/GoogleDrive/My Drive/Gloss-annotation/Annotating/Main_folder/Tiffany/---01_DONE/0vDLEn7zVUA-8-rgb_front/New_files/0vDLEn7zVUA-8-rgb_front.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./0vDLEn7zVUA-8-rgb_front.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:a46c9bfb-6e4f-4483-b3f6-971ccb281f17</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">7</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="52700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="52700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="83740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="83740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="84570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="84570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="89780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="89780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="89820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="89820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="102170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="102170"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0vDLEn7zVUA_5-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>This one is foldable and my chopsticks that I don't use at times but keep them in the back of the drawer so I'm not, so I don't have to get there a lot and because of the size of my drawer, I mix in all my spoons, my soup spoons and my other spoons, my regular spoons and just keep them all in one, in one piece as well as my salad and my dinner forks.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0vDLEn7zVUA_6-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>Keep them all in one section of this container so I have a place for my longer knife.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0vDLEn7zVUA_7-8-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>So it's really about organizing, I mean everything that we've talked about, is really just about organizing it so that it fits your space and it makes sense to you and it's functional and practical.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0vDLEn7zVUA_5-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>THAT ONE FOLD MY FS: CHOPSTICKS THAT ME NOT USE OFTEN TO KEEP BCL:(back of drawer)  NOT NEED BCL:( take out) MUCH FS:SO BCL:(take out) REAL SIZE MY DRAWER SMALL. CL:C(consolidate) ALL SPOON OTHER SPOON RIGHT SPOON CLC:(consolidate)  SAME FORK SALAD FOOD CL:C(consolidate) </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0vDLEn7zVUA_6-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>ONE CL:C(group) ME PLACE FOR KNIFE OPPOSSITE </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="0vDLEn7zVUA_7-8-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>REAL ABOUT PLAN MEAN EVERY-THING FINISH[fsh] DISCUSS REAL POINT PLAN FIT YOUR AREA MAKE UNDERSTAND YOU FUNCTION TRUE-BIZ BCL:(shrug)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-06-23T01:07:20-05:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Users/kathleenroberts/Desktop/H2S - Linguistics 799/005j20-PoLw-5-rgb_front/005j20-PoLw-5-rgb_front.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./005j20-PoLw-5-rgb_front.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:2a09e97a-1816-4751-9e91-c449fcbf6067</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">23</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="15530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="15530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="15640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="15640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="27790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="27790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="27920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="27920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="35380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="35380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="36600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="36600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="45930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="45930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="46020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="46020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="64090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="64090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="64140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="64140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="98540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="98540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="98660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="98660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="110090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="110090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="110310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="110310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="139720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="139720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="139830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="139830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="146870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="146870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="146950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="146950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="156450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="156450"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="005j20-PoLw_0-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>O.k.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="005j20-PoLw_1-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>now that we've got this set I'm going to go ahead and get the side walls a little damp.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="005j20-PoLw_2-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>Alright, so picking it up just a little bit; we can keep it nice and thick on top there o.k.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="005j20-PoLw_3-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>bring it up about right there; let me grab some more clay from the bottom.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="005j20-PoLw_4-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>It can be a little thinner on the inside but these rims right here; they need to stay nice and fat o.k.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="005j20-PoLw_5-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>At this point I got the height that I want and there's another things this tools great for; not only is it great for going back putting your mark in, see look a little swirl; alright.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="005j20-PoLw_6_7-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>Come in give it that classic casserole body right there; classic o.k. Just like that and then do some wheel trimming here and there's going to be a lot of goop that comes out of the bottom there.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="005j20-PoLw_8-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>With a form like this I don't like to get it too funky; I like it to be a little civilized.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="005j20-PoLw_9-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>But that's it right there and you want to go ahead, take this tool; needle, the wire tool nice and flat; and like this out off to the left.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="005j20-PoLw_10-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>I can tell the thickness on the bottom was perfect because I can see this moving through the bottom, alright.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="005j20-PoLw_11-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts43">
+                <ANNOTATION_VALUE>And then you want to get it off the wheel head; we're going to set it up then we're going to put some ears on it.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="005j20-PoLw_0-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>FS:OK.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="005j20-PoLw_1-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>NOW WE FINISH GOT THIS CLASS ME GO+AHEAD AND GET THE FS:SIDE WALL LITTLE+BIT WET</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="005j20-PoLw_2-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>FS:OK PICK+UP LITTLE+BIT CAN KEEP NICE FAT ON TOP FS:OK</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="005j20-PoLw_3-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>MOVE+UP RIGHT THERE LET ME GRAB LITTLE+BIT MORE FS:CLAY FROM THE BOTTOM</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="005j20-PoLw_4-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>IT CAN BE LITTLE+BIT THIN ON INSIDE BUT THE FS:RIMS CL:Q(thin round rims) THEY NEED TO STAY NICE AND FAT</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="005j20-PoLw_5-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>AT THIS POINT ME GOT THE HEIGHT THAT ME WANT AND THIS OTHER THING FS:S THAT FS:TOOLS GREAT FOR NOT ONLY IT IS GREAT FOR GOING+BACK PUT YOUR FS:MARK IN AND LOOK IN LITTLE+BIT SWIRL ALRIGHT</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="005j20-PoLw_6_7-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>COME IN GIVE FS:IT THAT FS:CLASSIC FS:CASSEROLE BODY THERE FS:CLASSIC FS:OK JUST LIKE THAT AND THEN DO SOME WHEEL FS:TRIMMING HERE AND GO TO BE A+LOT FS:OF FS:GOOP THAT COME OUT OF THE BOTTOM THERE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="005j20-PoLw_8-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>WITH A FIGURE LIKE THERE ME DON'T LIKE TO GET IT TOO FS:FUNKY ME LIKE TO BE LITTLE+BIT FS:CIVILIZED</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="005j20-PoLw_9-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>BUT THAT FINISH HERE AND YOU WANT TO GO+AHEAD TAKE THIS FS:TOOL  FS:NEEDLE THE THREAD FS:TOOL NICE AND FLAT AND LIKE THIS FS:OUT FS:OFF THE TO THE LEFT</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="005j20-PoLw_10-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>ME CAN TELL NOTICE THE FAT ON THE BOTTOM FS:WAS PERFECT ARE MOVING THROUGH THE BOTTOM</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="005j20-PoLw_11-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>AND NOW ME WANT TO GET IT OFF THE FS:WHEEL HEAD ME GO TO SET UP AND THEN WILL PUT SOME FS:EARS TO FS:IT</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-05-24T15:14:35+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/GoogleDrive/My Drive/Gloss-annotation/Annotating/Main_folder/kat/DONE/-6PULg1jlpc-5-rgb_front/-6PULg1jlpc-5-rgb_front.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./-6PULg1jlpc-5-rgb_front.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:d7068623-42fd-4438-b0ee-196676f96ae1</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">36</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="2200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="2200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="6170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="6170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="6210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="6210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="11785"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="11785"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="11785"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="11785"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="14830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="14830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="16550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="16550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="18325"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="18325"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="18325"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="18325"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="27710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="27710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="27710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="27710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="42750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="42750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="42750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="42750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="49835"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="49835"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="50765"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="50765"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="55480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="55480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="57470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="57470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="67545"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="67545"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="67545"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="67545"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="69710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="69710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="69710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="69710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="81600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="81600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="82200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="82200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="87150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="87150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="87150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="87150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="97665"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="97665"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="100690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="100690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="110230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="110230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="110230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="110230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="115805"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="115805"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="115940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="115940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="124000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="124000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="124000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="124000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="130110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="130110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="130110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="130110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="139889"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="139889"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-6PULg1jlpc_0-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>O.k., perfect we're going to get started in a second.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-6PULg1jlpc_1-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>"I know a lot of ladies out there are wondering, ""How do I get my skin clean?"</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-6PULg1jlpc_2-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>"How do I get rid of this makeup?"""</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-6PULg1jlpc_3-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>Well, today I'm going to show you how.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-6PULg1jlpc_4-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>My name is Sylvia Russell and today we're going to show you how to clean your face and get rid of makeup.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-6PULg1jlpc_5-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>Now make sure that you have the proper products; cleansing gel, cleansing wash, whatever you like on your skin, make sure you have it handy.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-6PULg1jlpc_6-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>Make sure you have water and you have a towel or some paper towels and cotton to help you clean up.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-6PULg1jlpc_7-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>So what you're going to do is go ahead and begin to wash your face.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-6PULg1jlpc_8-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>Now remember, cleansing the skin is something that can be very easily done at home, and it's something that you want to do on a regular basis.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-6PULg1jlpc_9-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>Removing makeup is vital.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-6PULg1jlpc_10-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts43">
+                <ANNOTATION_VALUE>We don't want to sleep all night with makeup on our skin, because this can cause breakouts and acne on the skin.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-6PULg1jlpc_11-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>So make sure to use a good cleansing product when removing makeup.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-6PULg1jlpc_12-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts51">
+                <ANNOTATION_VALUE>Makeup is something that all women love to use but we also need to remember to remove it properly.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-6PULg1jlpc_13-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>Simply apply the cleanser or cream to your hands and apply it to the face and begin rubbing.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-6PULg1jlpc_14-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts59">
+                <ANNOTATION_VALUE>Now remember, getting rid of that makeup you might have to cleanse twice.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-6PULg1jlpc_15-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts63">
+                <ANNOTATION_VALUE>So don't be afraid to go back over your face again a second time.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-6PULg1jlpc_16-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts64" TIME_SLOT_REF2="ts67">
+                <ANNOTATION_VALUE>Remember, cleansing your skin is very easy and you can do it yourself at home.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-6PULg1jlpc_17-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts68" TIME_SLOT_REF2="ts71">
+                <ANNOTATION_VALUE>My name is Sylvia Russell and this is how you can clean your skin and get rid of makeup.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-6PULg1jlpc_0-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>FS:OK PERFECT  GO AHEAD START IN FS:A SECOND</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-6PULg1jlpc_1-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>ME KNOW A+LOT LADIES AROUND+THERE WONDER HOW ME GET MY SKIN CLEAN</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-6PULg1jlpc_2-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>HOW ME ELIMINATE FS:OF THIS MAKEUP</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-6PULg1jlpc_3-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE>TODAY ME SHOW+YOU HOW</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-6PULg1jlpc_4-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts21">
+                <ANNOTATION_VALUE>FORMAL:ME FS:SYLVIA FS:RUSSELL AND TODAY SHOW HOW TO CLEAN YOUR FACE AND ELIMINATE MAKEUP</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-6PULg1jlpc_5-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts25">
+                <ANNOTATION_VALUE>MAKE SURE YOU HAVE THE PROPER PRODUCT CLEANING GEL CLEAN WASH WHATEVER YOU HAVE SIMILAR LIKE ON YOUR SKIN MAKE SURE YOU HAVE FS:IT IN HAND </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-6PULg1jlpc_6-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>MAKE SURE YOU HAVE WATER YOU HAVE TOWEL FS:OR PAPER TOWEL AND FS:COTTON TO CLEAN FS:UP</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-6PULg1jlpc_7-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>WHAT YOU DO GO+AHEAD BEGIN WASH+FACE </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-6PULg1jlpc_8-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts37">
+                <ANNOTATION_VALUE>REMEMBER TO CLEAN SKIN IS SOMETHING THAT CAN FS:BE FINISH EASY HOME AND SOMETHING YOU WANT TO DO ON FS:A REGULAR CONSTANT</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-6PULg1jlpc_9-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts41">
+                <ANNOTATION_VALUE>ELIMINATE MAKEUP IS IMPORTANT</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-6PULg1jlpc_10-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>YOU DO+NOT WANT TO SLEEP ALL+NIGHT WITH MAKEUP LEAVE+ON+FACE BECAUSE THIS CAN CAUSE ACNE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-6PULg1jlpc_11-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts49">
+                <ANNOTATION_VALUE>MAKE SURE TO USE GOOD CLEAN PRODUCT WHEN ELIMINATE MAKEUP</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-6PULg1jlpc_12-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>MAKEUP IS SOMETHING THAT ALL WOMAN LOVE USE BUT WE ALSO NEED TO REMEMBER TO ELIMINATE PROPER</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-6PULg1jlpc_13-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts57">
+                <ANNOTATION_VALUE>SIMPLE CLEAN FS:OR CREAM CL:CLOSED 5(rub on hands) HANDS PUT+ON+FACE CL:CLOSED 5(rub on face) FACE </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-6PULg1jlpc_14-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts58" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>REMEMBER GET ELIMINCATE MAKEUP MAYBE HAVE TO CL:CLOSED 5(clean face) TWICE </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-6PULg1jlpc_15-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts65">
+                <ANNOTATION_VALUE>FS:SO DO+NOT FS:BE AFRAID TO GO+BACK MAKEUP AGAIN FOR SECOND TIME</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-6PULg1jlpc_16-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts66" TIME_SLOT_REF2="ts69">
+                <ANNOTATION_VALUE>REMEMBER CLEAN YOUR SKIN IS EASY AND CAN DO YOURSELF </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-6PULg1jlpc_17-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts70" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>FORMAL:ME FS:SYLVIA FS:RUSSELL AND THERE IS HOW YOU CAN CLEAN YOUR SKIN AND ELIMINATE MAKEUP</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

@@ -1,0 +1,36 @@
+TRAIN
+*****************SKipped: 225
+dq9LGNzm2Mo-8-rgb_front
+20190516_184816
+*****************SKipped: 228
+2YRCf37JylI-8-rgb_front
+20190516_181758
+*****************SKipped: 317
+E4dMO7t5pBI-8-rgb_front
+20190515_180559
+
+computing 822 no existe 2-uPAF4lQyQ-8-rgb_front
+
+*****************SKipped: 824
+2-hvU0YdLRY-8-rgb_front
+nan
+
+*****************SKipped: 825
+2-uPAF4lQyQ-8-rgb_front
+20190921_115255
+
+
+
+TEST
+*****************SKipped: 16
+G2hnUeetWcc-5-rgb_front
+20190530_163201
+*****************SKipped: 17
+G2hnUeetWcc-5-rgb_front
+20190530_163201
+*****************SKipped: 61
+_FzvMVnR_aU-10-rgb_front
+20190605_142519
+Computing: 72 (val) DwlVtUKfv3s-5-rgb_front   nan
+
+

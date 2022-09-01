@@ -1,0 +1,122 @@
+TEST
+
+05/30
+---- Video to analyse ---- 20190530_163757 --- signer hace cosas sin mostrarse el cartel --- luego el cartel del 7
+
+06/95
+---- Video to analyse ---- 20190605_131956 --- Common Test Tea
+---- Video to analyse ---- 20190605_153917 --- missing (25)
+
+5/17
+
+---- Video to analyse ---- 20190517_163247 --- 14K (aparece sin nombre en csv) ... added
+---- Video to analyse ---- 20190517_151221 -- 3A comprobar (me salio dos veces el video y la segunda sin nombre)
+---- Video to analyse ---- 20190517_161435 --- es el 19A pero tendría que haber puesto 13A (por el excel)
+
+VAL
+
+[2A]Dreadlocks_f.mp4
+[6K]Paint_f.mp4
+[2A]Paint_mural[VALIDATION]_f.mp4
+
+[2A]Healthy_f.mp4
+[2A]Exercise_f.mp4
+
+Changing healthy and exercise to 3A 
+
+---- Video to analyse ---- 20190518_135502 --- solo el primero, tent sin nombre
+---- Video to analyse ---- 20190518_132710 --- 2A (nuevo 3A) -- exercise redondeado
+
+---- Video to analyse ---- 20190518_144140 --- empieza sin cartel
+
+---- Video to analyse ---- 20190518_131305 --- 1K (ya había un vídeo de 1K)
+---- Video to analyse ---- 20190518_150448 --- solo el segundo, sketching sin nombre
+---- Video to analyse ---- 20190529_172352 --- ambos sin nombre (lo que sería 4, christmast y ceramic)
+---- Video to analyse ---- 20190529_184743 --- ambos sin nombre (17 - bruscheta y cornrows)
+---- Video to analyse ---- 20190529_184155 --- ambos sin nombre (16 - living room y airplane)
+---- Video to analyse ---- 20190529_171506 --- ambos sin nombre (2-color y aikido) 
+---- Video to analyse ---- 20190529_182958 --- ambos sin nombre (14 - theeth and food)
+
+---- Video to analyse ---- 20190529_185137 --- empieza sin cartel
+---- Video to analyse ---- 20190529_183410 --- 15 (en video solo hay 2 en excel 3 --- comprobar tennis)
+
+
+TRAIN 
+
+---- Video to analyse ---- 20190530_191423 --- sin nombre (seria el 3)
+
+---- Video to analyse ---- 20190531_183934 -- sin nombre (seria el 17)
+
+---- Video to analyse ---- 20190521_193416 -- comprobar (seria el 21) 
+
+---- Video to analyse ---- 20190605_173542 -- comprobar que sea el 4
+
+---- 06/04 --- no hay contenido
+--------
+
+---- Video to analyse ---- 20190523_172857  -- video con signos antes del cartel
+---- Video to analyse ---- 20190523_180641 -- no esta (seria el 10)
+
+---- Video to analyse ---- 20190522_174649  --- common test tea
+---- Video to analyse ---- 20190522_174053 --- common test
+---- Video to analyse ---- 20190522_193656 -- sin nombre (seria el 18)
+ ---- Video to analyse ---- 20190522_190812 -- grabacion antes del cartel
+---- Video to analyse ---- 20190522_182452 -- sin nombre (seria el 7)
+
+---- Video to analyse ---- 20190713_130059 -- grabacion antes del cartel
+
+---- Video to analyse ---- 20190516_175219 -- no hay contenido
+
+**Carteles de 05/06/2019 sin numeracion y hay mas en el indice del documento
+---- Video to analyse ---- 20190506_190147 .. empieza sin cartel
+---- Video to analyse ---- 20190507_001144 .. sin nombre (seria el 1)
+
+05/07/2019 --- nada
+ ---- Video to analyse ---- 20190509_133424 -- no esta en la tabla
+---- Video to analyse ---- 20190515_194954 -- comprobar self defence redondeada y hair (pongo hair)
+
+---- Video to analyse ---- 20190515_192611 -- sin nombre (seria el 19)
+
+---- Video to analyse ---- 20190510_150643 -- common test
+
+---- Video to analyse ---- 20190510_163129 -- sin nombre(10A Juggling)
+---- Video to analyse ---- 20190510_152000 -- no aparece en el excel
+---- Video to analyse ---- 20190510_151232 -- common test
+
+---- Video to analyse ---- 20190514_173023 -- empieza sin cartel
+---- Video to analyse ---- 20190514_173806 -- no cartel
+---- Video to analyse ---- 20190514_183424 -- empieza sin cartel
+
+---- Video to analyse ---- 20190730_195631 -- sería el 18 y uno de ellos sin nombre
+
+---- Video to analyse ---- 20190729_190030 -- empieza sin cartel
+
+07/03 --- no videos
+
+---- Video to analyse ---- 20190708_181041 -- un video sin nombre (seria 13 bicycle)
+
+---- Video to analyse ---- 20190710_163850 -- empieza sin cartel
+
+---- Video to analyse ---- 20190710_165635 -- no esta el 7 en el excel
+
+---- Video to analyse ---- 20190705_133942 -- el video massage no esta en el excel
+
+---- Video to analyse ---- 20190709_164329 -- videos no estan en el excel (4)
+---- Video to analyse ---- 20190709_183736 -- videos car y drinks no estan en el excel (11)
+---- Video to analyse ---- 20190709_182335 -- video camera no esta en el excel (es el 10)
+
+---- Video to analyse ---- 20190612_194010 -- videos no estan en el excel (20)
+---- Video to analyse ---- 20190627_171633 -- empieza sin cartel
+
+06/07 ---no videos
+
+---- Video to analyse ---- 20190626_184014 -- videos no estan en el excel
+---- Video to analyse ---- 20190626_184859 -- empieza sin cartel
+
+6/28 -- no videos
+6/10 -- no videos
+
+---- Video to analyse ---- 20190921_110719 -- empieza sin cartel
+ ---- Video to analyse ---- 20190808_184635 -- videos sin nombre (12)
+
+

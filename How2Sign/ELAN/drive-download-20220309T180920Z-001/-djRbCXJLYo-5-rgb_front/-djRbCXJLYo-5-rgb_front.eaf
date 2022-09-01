@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-05-03T12:45:13+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/GoogleDrive/My Drive/Gloss-annotation/Done/andrea/-djRbCXJLYo-5-rgb_front/-djRbCXJLYo-5-rgb_front.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./-djRbCXJLYo-5-rgb_front.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:9145b7a7-74f7-4924-9f66-20a8376dae2c</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">28</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="5310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="5310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="9680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="9680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="9710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="9710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="10270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="10270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="10320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="10320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="15610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="15610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="15630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="15630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="20020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="20020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="20020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="20020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="25150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="25150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="25310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="25310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="36370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="36370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="36370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="36370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="39960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="39960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="46870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="46870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="51810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="51810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="51900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="51900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="55260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="55260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="64350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="64350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="65650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="65650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="65650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="65650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="70540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="70540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="71780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="71780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="85080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="85080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="85080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="85080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="87700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="87700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="87700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="87700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="93870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="93870"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-djRbCXJLYo_1-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>Today, we are going to learn how to make gourmet coffee in your home.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-djRbCXJLYo_2-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>All right.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-djRbCXJLYo_3-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>In this clip, I'm going to explain to you real quickly how to make an Irish cream steamer.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-djRbCXJLYo_4-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>This is basically just going to be the steamed milk and then your flavor.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-djRbCXJLYo_5-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>It sounds really, really fancy but it's not.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-djRbCXJLYo_6-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>If you have like kids in the house or people who don't like coffee, this is a great drink to make because it doesn't have espresso.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-djRbCXJLYo_7-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>All right, we got our milk steamed.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-djRbCXJLYo_8-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>What we're going to do, we got our sugar for the Irish cream.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-djRbCXJLYo_9-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>One, two, three pumps.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-djRbCXJLYo_10-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>And there you are.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-djRbCXJLYo_11-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts43">
+                <ANNOTATION_VALUE>It's basically like a hot chocolate except it's going to be Irish cream flavored.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-djRbCXJLYo_12-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts47">
+                <ANNOTATION_VALUE>Remember though, if you are going to make something with fruit flavors to cut it with vanilla, or if you have like a thick syrup like chocolate, you can cut it with that, too.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-djRbCXJLYo_13-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts48" TIME_SLOT_REF2="ts51">
+                <ANNOTATION_VALUE>It's not going to curdle.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-djRbCXJLYo_14-5-rgb_front">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts55">
+                <ANNOTATION_VALUE>And that is how you make an Irish cream steamer, also known as the cream of steamer.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-djRbCXJLYo_1-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>GO TO LEARN HOW TO MAKE GOURMET COFFEE IN YOUR HOME.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-djRbCXJLYo_2-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>ALL+RIGHT.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-djRbCXJLYo_3-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>IN THIS CLIP WILL EXPLAIN TO REAL QUICK HOW TO MAKE FS:AN IRISH CREAMER STREAMER.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-djRbCXJLYo_4-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE>THIS BASIC GO TO BE STREAM MILK AND THEN YOUR FLAVOR. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-djRbCXJLYo_5-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>IT SOUND REALLY REALLY FANCY FS:BUT IT NOT. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-djRbCXJLYo_6-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts25">
+                <ANNOTATION_VALUE>IF YOU HAVE KID IN THIS HOUSE FS:OR PEOPLE WHO DON'T LIKE COFFEE IT GREAT TO DRINK TO MAKE WHY NOT HAVE FS:ESPRESSO.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-djRbCXJLYo_7-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>ALL+RIGHT HAVE MILK STREAM </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-djRbCXJLYo_8-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>WHAT DO GET OUR SUGAR FOR IRISH CREAM.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-djRbCXJLYo_9-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>1 2 3 PUMPS.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-djRbCXJLYo_10-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>AND THERE+YOU ARE</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-djRbCXJLYo_11-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>BASIC LIKE HOT CHOCOLATE EXCEPT WILL BE IRISH CREAM FLAOVRED. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-djRbCXJLYo_12-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts49">
+                <ANNOTATION_VALUE>REMEMBER THOUGH IF GO TO MAKE SOMETHING WITH FRUIT FLAVORS TO CUT WITH VANILLA FS:OR IF YOU HAVE FS:A THICK SYRUP LIKE CHOCOLATE YOU CAN GO AHEAD. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-djRbCXJLYo_13-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts53">
+                <ANNOTATION_VALUE>NOT GO TO FS:CURDLE.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="-djRbCXJLYo_14-5-gloss">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>AND THAT HOW YOU MAKE IRISH CREAM KNOW FS:AS THE CREAM FS:OF STREAMER.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
